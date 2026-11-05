@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "countryCode": "KE",
+  "countryIso3": "KEN",
+  "idNamespace": "hdx-cod-ab-v1",
+  "geometryIncludedInRecords": false,
+  "source": {
+    "dataset": "https://data.humdata.org/dataset/cod-ab-ken",
+    "datasetId": "2c0b7571-4bef-4347-9b81-b2174c13f9ef",
+    "resourceId": "674ea496-5451-4312-bcab-8aa95fa3f36c",
+    "resourceUrl": "https://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/674ea496-5451-4312-bcab-8aa95fa3f36c/download/ken_admin_boundaries.geojson.zip",
+    "sourceArchiveSha256": "ee7c9f02eb91f902ac53aa3be63d9cd195fbfc60eb56a6cc9c240b4a39767d18",
+    "sourceArchiveBytes": 6957132,
+    "datasetDate": "[2019-10-31T00:00:00 TO 2025-01-28T23:59:59]",
+    "resourceModified": "2026-08-14T07:15:08.174098",
+    "publisher": "OCHA Field Information Services Section (FISS)",
+    "attribution": "IEBC; OCHA/HDX; CC BY 3.0 IGO",
+    "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+    "disclaimer": "The boundaries and names shown and the designations used on this data do not imply official endorsement or acceptance by the United Nations.",
+    "caveats": "This dataset is not an official administrative layer from the National authorities but was agreed and endorsed for operational use by IMWG in October 2016\n\nThe administrative level 2 boundaries do not conform to the COD-PS.\n\nThe boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.",
+    "excludedFiles": [
+      "ken_adminlines.geojson",
+      "ken_adminpoints.geojson"
+    ],
+    "datasetDescription": "Kenya administrative level 0-2 boundaries (COD-AB) dataset version 01.  \n  \nThis dataset is structured into 2 levels:  \n- Admin 1: 47   \n- Admin 2: 290   \n  \n  \nDates associated with this dataset:  \n- 28 January 2025: dataset reviewed for accuracy and completeness  \n- 31 October 2019: valid for use by the humanitarian community  \n- 03 July 2018: last edit to the dataset before publishing  \n- 03 July 2018: boundaries created by the source  \n  \nContributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  \nQuality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  \n  \nPart of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  },
+  "build": {
+    "crs": "OGC:CRS84",
+    "minimumZoom": 0,
+    "maximumZoom": 8,
+    "tinyPolygonReduction": false,
+    "featureDropping": false,
+    "tippecanoeVersion": "tippecanoe v2.53.0",
+    "geometryGeneralization": "Tippecanoe default zoom-dependent simplification and quantization"
+  },
+  "records": {
+    "file": "records.json",
+    "sha256": "cac628c1d3b4a4b473aaf2836a00699afa35e1bf599fa9056d0cc5ceb7b8d217",
+    "count": 338,
+    "bytes": 130109,
+    "countsByLevel": {
+      "0": 1,
+      "1": 47,
+      "2": 290
+    }
+  },
+  "tiles": [
+    {
+      "file": "admin-0.mbtiles",
+      "level": 0,
+      "sha256": "9ebc2a3334b8bf7ef131a3f689302289542a8a95c11a2b51f79751e99d95b912",
+      "bytes": 77824,
+      "featureCount": 1,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-1.mbtiles",
+      "level": 1,
+      "sha256": "49a06b710df9fef535bca4d569f37aa6f9b34a7431a151bb62fc25fb43dbed07",
+      "bytes": 311296,
+      "featureCount": 47,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-2.mbtiles",
+      "level": 2,
+      "sha256": "da2937e039bed0ecb776f9b7260777e863bfb5cfac69d0a28c2142a0f6b4eea1",
+      "bytes": 802816,
+      "featureCount": 290,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    }
+  ]
+}

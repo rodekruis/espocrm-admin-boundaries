@@ -1,0 +1,163 @@
+{
+  "schema": 1,
+  "verified": true,
+  "totalRecords": 3582,
+  "countries": [
+    {
+      "country": "ETH",
+      "records": 1271,
+      "countsByLevel": {
+        "0": 1,
+        "1": 15,
+        "2": 107,
+        "3": 1148
+      },
+      "tileBytes": 3215360,
+      "layers": [
+        {
+          "level": 0,
+          "uniqueIds": 1,
+          "tiles": 117,
+          "decodedFeatures": 117,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 1,
+          "uniqueIds": 15,
+          "tiles": 117,
+          "decodedFeatures": 338,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 2,
+          "uniqueIds": 107,
+          "tiles": 117,
+          "decodedFeatures": 1437,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 3,
+          "uniqueIds": 1148,
+          "tiles": 117,
+          "decodedFeatures": 11690,
+          "allIdsAtMaxZoom": true
+        }
+      ]
+    },
+    {
+      "country": "KEN",
+      "records": 338,
+      "countsByLevel": {
+        "0": 1,
+        "1": 47,
+        "2": 290
+      },
+      "tileBytes": 1191936,
+      "layers": [
+        {
+          "level": 0,
+          "uniqueIds": 1,
+          "tiles": 68,
+          "decodedFeatures": 68,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 1,
+          "uniqueIds": 47,
+          "tiles": 68,
+          "decodedFeatures": 795,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 2,
+          "uniqueIds": 290,
+          "tiles": 68,
+          "decodedFeatures": 3917,
+          "allIdsAtMaxZoom": true
+        }
+      ]
+    },
+    {
+      "country": "UGA",
+      "records": 1863,
+      "countsByLevel": {
+        "0": 1,
+        "1": 4,
+        "2": 135,
+        "3": 203,
+        "4": 1520
+      },
+      "tileBytes": 3485696,
+      "layers": [
+        {
+          "level": 0,
+          "uniqueIds": 1,
+          "tiles": 44,
+          "decodedFeatures": 44,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 1,
+          "uniqueIds": 4,
+          "tiles": 44,
+          "decodedFeatures": 102,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 2,
+          "uniqueIds": 135,
+          "tiles": 44,
+          "decodedFeatures": 1845,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 3,
+          "uniqueIds": 203,
+          "tiles": 44,
+          "decodedFeatures": 2697,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 4,
+          "uniqueIds": 1520,
+          "tiles": 44,
+          "decodedFeatures": 18535,
+          "allIdsAtMaxZoom": true
+        }
+      ]
+    },
+    {
+      "country": "SOM",
+      "records": 110,
+      "countsByLevel": {
+        "0": 1,
+        "1": 18,
+        "2": 91
+      },
+      "tileBytes": 430080,
+      "layers": [
+        {
+          "level": 0,
+          "uniqueIds": 1,
+          "tiles": 92,
+          "decodedFeatures": 92,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 1,
+          "uniqueIds": 18,
+          "tiles": 92,
+          "decodedFeatures": 342,
+          "allIdsAtMaxZoom": true
+        },
+        {
+          "level": 2,
+          "uniqueIds": 91,
+          "tiles": 92,
+          "decodedFeatures": 1221,
+          "allIdsAtMaxZoom": true
+        }
+      ]
+    }
+  ]
+}

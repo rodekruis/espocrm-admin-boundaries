@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "pilot": true,
+  "packages": [
+    {
+      "name": "Ethiopia",
+      "countryCode": "ET",
+      "countryIso3": "ETH",
+      "manifest": "ETH/manifest.json",
+      "manifestSha256": "3ac6d51d23a97e73bd3a43afbacc28ce1ef1380e83501bd4be67efca278631d5",
+      "records": 1271,
+      "tileBytes": 3215360
+    },
+    {
+      "name": "Kenya",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "manifest": "KEN/manifest.json",
+      "manifestSha256": "cd9574322b01d4d154b11211507b759e76231b3fce9f9e9824976110e7038f1a",
+      "records": 338,
+      "tileBytes": 1191936
+    },
+    {
+      "name": "Uganda",
+      "countryCode": "UG",
+      "countryIso3": "UGA",
+      "manifest": "UGA/manifest.json",
+      "manifestSha256": "5f18c4163d19067b4aa2c89591b7c89b01eecbaa4c57f00b7ffdefcc1c72be0d",
+      "records": 1863,
+      "tileBytes": 3485696
+    },
+    {
+      "name": "Somalia",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "manifest": "SOM/manifest.json",
+      "manifestSha256": "7d95860d4244f2558c6211da37fdbaa028c5e7048519c1b2c8717af12eafc944",
+      "records": 110,
+      "tileBytes": 430080
+    }
+  ]
+}

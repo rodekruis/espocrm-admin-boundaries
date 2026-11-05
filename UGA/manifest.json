@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "countryCode": "UG",
+  "countryIso3": "UGA",
+  "idNamespace": "hdx-cod-ab-v1",
+  "geometryIncludedInRecords": false,
+  "source": {
+    "dataset": "https://data.humdata.org/dataset/cod-ab-uga",
+    "datasetId": "6d6d1495-196b-49d0-86b9-dc9022cde8e7",
+    "resourceId": "4a409743-e1b7-40d7-ad05-e08920f4b099",
+    "resourceUrl": "https://data.humdata.org/dataset/6d6d1495-196b-49d0-86b9-dc9022cde8e7/resource/4a409743-e1b7-40d7-ad05-e08920f4b099/download/uga_admin_boundaries.geojson.zip",
+    "sourceArchiveSha256": "5d2cc90a25954dd1d085ef6707782df34f0c5a77d63f7ab7c96a2eec31b7a0d1",
+    "sourceArchiveBytes": 37365937,
+    "datasetDate": "[2020-08-24T00:00:00 TO 2026-09-21T23:59:59]",
+    "resourceModified": "2026-09-24T09:11:21.885712",
+    "publisher": "OCHA Field Information Services Section (FISS)",
+    "attribution": "Uganda Bureau of Statistics with support from WHO; OCHA/HDX; CC BY 3.0 IGO",
+    "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+    "disclaimer": "The boundaries and names shown and the designations used on this data do not imply official endorsement or acceptance by the United Nations.",
+    "caveats": "This COD-AB reflects the 135 district administrative system.",
+    "excludedFiles": [
+      "uga_adminlines.geojson",
+      "uga_adminpoints.geojson"
+    ],
+    "datasetDescription": "Uganda administrative level 0-4 boundaries (COD-AB) dataset version 01.  \n  \nThis dataset is structured into 4 levels:  \n- Admin 1: 4 Region  \n- Admin 2: 135 District  \n- Admin 3: 203 Sub-county, parish, village  \n- Admin 4: 1520   \n  \n  \nDates associated with this dataset:  \n- 21 September 2026: dataset reviewed for accuracy and completeness  \n- 24 August 2020: valid for use by the humanitarian community  \n- 11 June 2020: last edit to the dataset before publishing  \n- 11 June 2020: boundaries created by the source  \n  \nContributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  \nQuality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  \n  \nPart of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  },
+  "build": {
+    "crs": "OGC:CRS84",
+    "minimumZoom": 0,
+    "maximumZoom": 8,
+    "tinyPolygonReduction": false,
+    "featureDropping": false,
+    "tippecanoeVersion": "tippecanoe v2.53.0",
+    "geometryGeneralization": "Tippecanoe default zoom-dependent simplification and quantization"
+  },
+  "records": {
+    "file": "records.json",
+    "sha256": "cf716b32678a4a7928e9702a97a1f092f4345ebca0f64e6d4a0b0ad0e823c494",
+    "count": 1863,
+    "bytes": 743039,
+    "countsByLevel": {
+      "0": 1,
+      "1": 4,
+      "2": 135,
+      "3": 203,
+      "4": 1520
+    }
+  },
+  "tiles": [
+    {
+      "file": "admin-0.mbtiles",
+      "level": 0,
+      "sha256": "0aad073573bc193277052e747e1d1e8ef19cdaea9233bd7d69765ccf58228348",
+      "bytes": 65536,
+      "featureCount": 1,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-1.mbtiles",
+      "level": 1,
+      "sha256": "c365712985c3f6078ece2fd079e657764b7f270dac159b0b4ec7ea551b2d218c",
+      "bytes": 106496,
+      "featureCount": 4,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-2.mbtiles",
+      "level": 2,
+      "sha256": "af9a7fa1c07bf055b37a7ffc32b6aafa03fed820377b944f2e9eeaa255b7e316",
+      "bytes": 475136,
+      "featureCount": 135,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-3.mbtiles",
+      "level": 3,
+      "sha256": "0c742be29e542e4f7b4349af4809a7ca39f388ff6427fcf45ed8dd92adb3d04b",
+      "bytes": 626688,
+      "featureCount": 203,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-4.mbtiles",
+      "level": 4,
+      "sha256": "d37eb16852dd9d690026bdc5d32b9f47d9edb315f99791bbead23191e203f412",
+      "bytes": 2211840,
+      "featureCount": 1520,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    }
+  ]
+}

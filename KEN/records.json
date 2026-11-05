@@ -1,0 +1,5415 @@
+{
+  "schema": 1,
+  "countryCode": "KE",
+  "countryIso3": "KEN",
+  "records": [
+    {
+      "id": "d804edc0501c83dbb",
+      "name": "Kenya",
+      "adminCode": "KE",
+      "adminLevel": 0,
+      "levelName": "Country",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": null,
+      "bbox": [
+        33.91028865500016,
+        -4.67687988299997,
+        41.9060214590001,
+        5.414123535000044
+      ]
+    },
+    {
+      "id": "47859cb5b2dd8f78c",
+      "name": "Mombasa",
+      "adminCode": "KE001",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        39.56421967100016,
+        -4.152442919999828,
+        39.762252808000085,
+        -3.919444321999947
+      ]
+    },
+    {
+      "id": "ac0960e87062ceaa9",
+      "name": "Kwale",
+      "adminCode": "KE002",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        38.445745460000126,
+        -4.67687988299997,
+        39.642683729000055,
+        -3.564228354999955
+      ]
+    },
+    {
+      "id": "daf29efa59637763c",
+      "name": "Kilifi",
+      "adminCode": "KE003",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        39.0871963190001,
+        -3.994929643999967,
+        40.24001360200003,
+        -2.30911257199989
+      ]
+    },
+    {
+      "id": "9951a0b4989e4fa77",
+      "name": "Tana River",
+      "adminCode": "KE004",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        38.41955287200011,
+        -3.069262899999899,
+        40.73631319900011,
+        -0.001544238999884
+      ]
+    },
+    {
+      "id": "f18e2a36cc606cd4e",
+      "name": "Lamu",
+      "adminCode": "KE005",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        40.212176223000085,
+        -2.466639114999964,
+        41.531311035000044,
+        -1.661315917999957
+      ]
+    },
+    {
+      "id": "61f5a4560c7b9b119",
+      "name": "Taita Taveta",
+      "adminCode": "KE006",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.584371568,
+        -4.137970692999829,
+        39.21974895700015,
+        -2.67958740399996
+      ]
+    },
+    {
+      "id": "e2bc6bbd98ef974f5",
+      "name": "Garissa",
+      "adminCode": "KE007",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        38.65876263600006,
+        -2.035650818999898,
+        41.56263972600004,
+        0.995885165000118
+      ]
+    },
+    {
+      "id": "90938680a9cfaefa0",
+      "name": "Wajir",
+      "adminCode": "KE008",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        38.887599945000034,
+        0.183551085000033,
+        40.99275358500006,
+        3.695313823000049
+      ]
+    },
+    {
+      "id": "dd4ecdc5fdde6c029",
+      "name": "Mandera",
+      "adminCode": "KE009",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        39.78513817800007,
+        2.176178778000065,
+        41.9060214590001,
+        4.282113721000144
+      ]
+    },
+    {
+      "id": "11e1f4d02c23df41a",
+      "name": "Marsabit",
+      "adminCode": "KE010",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.04949188200004,
+        1.263430463000134,
+        39.34586990800017,
+        4.457326795000142
+      ]
+    },
+    {
+      "id": "b5990d1c692b1d4e7",
+      "name": "Isiolo",
+      "adminCode": "KE011",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.86376571700015,
+        -0.086491767999973,
+        39.46192181100014,
+        2.099456261000114
+      ]
+    },
+    {
+      "id": "3d329fa6396ef3747",
+      "name": "Meru",
+      "adminCode": "KE012",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.08807998100008,
+        -0.213340684999878,
+        38.41986592600006,
+        0.671239948000107
+      ]
+    },
+    {
+      "id": "279f88777cdaa683e",
+      "name": "Tharaka-Nithi",
+      "adminCode": "KE013",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.30781173700012,
+        -0.451542566999933,
+        38.3093605040001,
+        0.068584019000184
+      ]
+    },
+    {
+      "id": "264db75b0365a18f2",
+      "name": "Embu",
+      "adminCode": "KE014",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.26692581200018,
+        -0.916017055999873,
+        37.93617391600003,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "87db08373149cd4b0",
+      "name": "Kitui",
+      "adminCode": "KE015",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.595709852000084,
+        -3.068450101999872,
+        39.07565263400005,
+        -0.053206601999932
+      ]
+    },
+    {
+      "id": "19f43c43059ba2148",
+      "name": "Machakos",
+      "adminCode": "KE016",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.878297806000035,
+        -1.777768253999966,
+        37.86804056200009,
+        -0.774464368999872
+      ]
+    },
+    {
+      "id": "505dd5360ca4a39a3",
+      "name": "Makueni",
+      "adminCode": "KE017",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.1412887570001,
+        -2.991851285999928,
+        38.51954293200009,
+        -1.515175043999932
+      ]
+    },
+    {
+      "id": "5e166a810e52e1a82",
+      "name": "Nyandarua",
+      "adminCode": "KE018",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.20078119400017,
+        -0.918584417999853,
+        36.73668289200015,
+        0.140240267000081
+      ]
+    },
+    {
+      "id": "aa40a90ad2ac100b7",
+      "name": "Nyeri",
+      "adminCode": "KE019",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.60403823900003,
+        -0.644683675999943,
+        37.30781173700012,
+        0.015436302000182
+      ]
+    },
+    {
+      "id": "fd5f3334346327a95",
+      "name": "Kirinyaga",
+      "adminCode": "KE020",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        37.14383824700019,
+        -0.785282634999874,
+        37.49604225200011,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "62db3d5230e421c6b",
+      "name": "Murang'a",
+      "adminCode": "KE021",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.70576858500016,
+        -1.093485273999931,
+        37.42087555000012,
+        -0.564384877999942
+      ]
+    },
+    {
+      "id": "706405f612ac71c25",
+      "name": "Kiambu",
+      "adminCode": "KE022",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.49081420900018,
+        -1.31216794199986,
+        37.3625982690001,
+        -0.75662815599992
+      ]
+    },
+    {
+      "id": "933f92d5b2a3fd814",
+      "name": "Turkana",
+      "adminCode": "KE023",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        33.99212646500018,
+        0.912393913000074,
+        36.724673104000146,
+        5.414123535000044
+      ]
+    },
+    {
+      "id": "2096541e7fcb78278",
+      "name": "West Pokot",
+      "adminCode": "KE024",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.77591001299999,
+        1.119952883000167,
+        35.7904028050001,
+        2.652656197000169
+      ]
+    },
+    {
+      "id": "40b792060e1da4ed0",
+      "name": "Samburu",
+      "adminCode": "KE025",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.288776065000036,
+        0.566833623000036,
+        38.08049410000007,
+        2.515847644000132
+      ]
+    },
+    {
+      "id": "2b9c7ab944a328920",
+      "name": "Trans Nzoia",
+      "adminCode": "KE026",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.579758520000155,
+        0.807500812000058,
+        35.36257105600009,
+        1.283823490000032
+      ]
+    },
+    {
+      "id": "4e933e8f90d42b56f",
+      "name": "Uasin Gishu",
+      "adminCode": "KE027",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.85213977400008,
+        0.008911581000064,
+        35.590579368000135,
+        0.946050864000028
+      ]
+    },
+    {
+      "id": "2f9073ac2261e521d",
+      "name": "Elgeyo-Marakwet",
+      "adminCode": "KE028",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        35.15161889400014,
+        0.170152134000091,
+        35.72267579700019,
+        1.319187852000084
+      ]
+    },
+    {
+      "id": "fa83a106d9558c32b",
+      "name": "Nandi",
+      "adminCode": "KE029",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.73965270200006,
+        -0.108306624999955,
+        35.43810475100014,
+        0.563082222000048
+      ]
+    },
+    {
+      "id": "a83c7ebeb37c3b7b4",
+      "name": "Baringo",
+      "adminCode": "KE030",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        35.52292096600007,
+        -0.203110219999928,
+        36.489664689999984,
+        1.656535689000179
+      ]
+    },
+    {
+      "id": "2a7eb6a1ac8a7f6a1",
+      "name": "Laikipia",
+      "adminCode": "KE031",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.22603278200012,
+        -0.293131469999878,
+        37.39556217200004,
+        0.871326993000025
+      ]
+    },
+    {
+      "id": "0c2a3cdf6c3a5021c",
+      "name": "Nakuru",
+      "adminCode": "KE032",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        35.413886582000146,
+        -1.152578333999884,
+        36.599987030000136,
+        0.235752134000052
+      ]
+    },
+    {
+      "id": "e30b5e75a3c80a53e",
+      "name": "Narok",
+      "adminCode": "KE033",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.59006589900008,
+        -2.10458073999996,
+        36.3477821350001,
+        -0.454247865999946
+      ]
+    },
+    {
+      "id": "7bf2e6e77495e2622",
+      "name": "Kajiado",
+      "adminCode": "KE034",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.00013299500017,
+        -3.187099617999934,
+        37.937362439000026,
+        -1.037254646999941
+      ]
+    },
+    {
+      "id": "6033250ba2f9dd5b4",
+      "name": "Kericho",
+      "adminCode": "KE035",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        35.004489708000165,
+        -0.661548736999976,
+        35.67503658200019,
+        0.027888496000173
+      ]
+    },
+    {
+      "id": "0f01297163868317a",
+      "name": "Bomet",
+      "adminCode": "KE036",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        35.01186480400003,
+        -1.034959474999937,
+        35.58727803500011,
+        -0.399200438999969
+      ]
+    },
+    {
+      "id": "4db92d3a37cd07656",
+      "name": "Kakamega",
+      "adminCode": "KE037",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.34340923500014,
+        0.091259924000099,
+        35.15537896400002,
+        0.90339314900001
+      ]
+    },
+    {
+      "id": "f7597a68306d6a370",
+      "name": "Vihiga",
+      "adminCode": "KE038",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.533028252000065,
+        -0.039850271999967,
+        34.925849662000076,
+        0.208512160000055
+      ]
+    },
+    {
+      "id": "e63184235887017eb",
+      "name": "Bungoma",
+      "adminCode": "KE039",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.36208194100004,
+        0.421280703999969,
+        35.06757260100011,
+        1.150184714000147
+      ]
+    },
+    {
+      "id": "5c4219716c8e5609a",
+      "name": "Busia",
+      "adminCode": "KE040",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        33.91028865500016,
+        -0.027709632999972,
+        34.43463117200008,
+        0.778068243000064
+      ]
+    },
+    {
+      "id": "4c651735966ede27c",
+      "name": "Siaya",
+      "adminCode": "KE041",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        33.94796589900011,
+        -0.428403936999928,
+        34.55989574400019,
+        0.313484479000067
+      ]
+    },
+    {
+      "id": "eb3194a51aae7157a",
+      "name": "Kisumu",
+      "adminCode": "KE042",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.415065899000126,
+        -0.414272222999955,
+        35.34310802300007,
+        0.025650060999965
+      ]
+    },
+    {
+      "id": "f459c260355b4a2c1",
+      "name": "Homa Bay",
+      "adminCode": "KE043",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        33.917065899000136,
+        -0.86624554399998,
+        35.02123868600006,
+        -0.256758063999939
+      ]
+    },
+    {
+      "id": "0e7410b98cb2a2ef2",
+      "name": "Migori",
+      "adminCode": "KE044",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        33.925865899000144,
+        -1.386716241999977,
+        34.7305351440001,
+        -0.649314524999966
+      ]
+    },
+    {
+      "id": "98a4c621ad3ad12d5",
+      "name": "Kisii",
+      "adminCode": "KE045",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.610465899000076,
+        -0.971103936999896,
+        35.01282502000009,
+        -0.501603936999913
+      ]
+    },
+    {
+      "id": "77244813efc5a33a6",
+      "name": "Nyamira",
+      "adminCode": "KE046",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        34.7786158990001,
+        -0.887919667999881,
+        35.09128533900014,
+        -0.409650856999917
+      ]
+    },
+    {
+      "id": "d3fab8ce589032a82",
+      "name": "Nairobi",
+      "adminCode": "KE047",
+      "adminLevel": 1,
+      "levelName": "County",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d804edc0501c83dbb",
+      "bbox": [
+        36.66347503700018,
+        -1.442147810999927,
+        37.10367012000012,
+        -1.15797710399994
+      ]
+    },
+    {
+      "id": "4d68ed9252bc14a06",
+      "name": "Changamwe",
+      "adminCode": "KE001001",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.56421967100016,
+        -4.043961223999929,
+        39.64965966900013,
+        -3.991550699999891
+      ]
+    },
+    {
+      "id": "8c014ff7ed9fdc951",
+      "name": "Jomvu",
+      "adminCode": "KE001002",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.56893089800013,
+        -4.030542255999876,
+        39.65008174500008,
+        -3.949589740999954
+      ]
+    },
+    {
+      "id": "be1318b135c58f1bd",
+      "name": "Kisauni",
+      "adminCode": "KE001003",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.60620117200017,
+        -4.044930594999926,
+        39.762252808000085,
+        -3.919444321999947
+      ]
+    },
+    {
+      "id": "cfb85412f234bd7f5",
+      "name": "Nyali",
+      "adminCode": "KE001004",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.679896211000084,
+        -4.061402503999943,
+        39.7304229560001,
+        -3.999860281999929
+      ]
+    },
+    {
+      "id": "e040b38021d086d00",
+      "name": "Likoni",
+      "adminCode": "KE001005",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.57526008600013,
+        -4.152442919999828,
+        39.67429876800014,
+        -4.048539735999952
+      ]
+    },
+    {
+      "id": "41e25f8bf4c213ccb",
+      "name": "Mvita",
+      "adminCode": "KE001006",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "47859cb5b2dd8f78c",
+      "bbox": [
+        39.63951593900015,
+        -4.077102588999821,
+        39.68210669400008,
+        -4.027643451999836
+      ]
+    },
+    {
+      "id": "97e38b81eb19b3dd1",
+      "name": "Msambweni",
+      "adminCode": "KE002007",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "ac0960e87062ceaa9",
+      "bbox": [
+        39.32028960200017,
+        -4.498101014999918,
+        39.598377299,
+        -4.247432570999877
+      ]
+    },
+    {
+      "id": "4ca9cc60add865127",
+      "name": "Lunga Lunga",
+      "adminCode": "KE002008",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "ac0960e87062ceaa9",
+      "bbox": [
+        38.60789706700007,
+        -4.67687988299997,
+        39.47192382800006,
+        -4.191254237999942
+      ]
+    },
+    {
+      "id": "67fa59d7978876203",
+      "name": "Matuga",
+      "adminCode": "KE002009",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "ac0960e87062ceaa9",
+      "bbox": [
+        39.15659600800012,
+        -4.404927284999872,
+        39.642683729000055,
+        -4.072503168999845
+      ]
+    },
+    {
+      "id": "4a617370a0f61a01f",
+      "name": "Kinango",
+      "adminCode": "KE002010",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "ac0960e87062ceaa9",
+      "bbox": [
+        38.445745460000126,
+        -4.326367696999966,
+        39.580919758,
+        -3.564228354999955
+      ]
+    },
+    {
+      "id": "f493b54ae56aedef0",
+      "name": "Kilifi North",
+      "adminCode": "KE003011",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.74788663300012,
+        -3.784881066999901,
+        40.12236994700015,
+        -3.213958503999947
+      ]
+    },
+    {
+      "id": "e736984f60fef3e39",
+      "name": "Kilifi South",
+      "adminCode": "KE003012",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.64902494699999,
+        -3.955855493999934,
+        39.842621685000154,
+        -3.669623291999926
+      ]
+    },
+    {
+      "id": "a28693360071e8984",
+      "name": "Kaloleni",
+      "adminCode": "KE003013",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.346897124000066,
+        -3.917316769999957,
+        39.66887436400003,
+        -3.629670157999954
+      ]
+    },
+    {
+      "id": "4a0d13afc3db372f3",
+      "name": "Rabai",
+      "adminCode": "KE003014",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.51988409000006,
+        -3.994929643999967,
+        39.702606404,
+        -3.775640883999927
+      ]
+    },
+    {
+      "id": "0423d9adf27ceb57e",
+      "name": "Ganze",
+      "adminCode": "KE003015",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.0871963190001,
+        -3.686621159999959,
+        39.82473372700014,
+        -3.185756191999928
+      ]
+    },
+    {
+      "id": "dfd042a7da6111e08",
+      "name": "Malindi",
+      "adminCode": "KE003016",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.68970137600019,
+        -3.360176066999827,
+        40.13217056400009,
+        -3.103688691999935
+      ]
+    },
+    {
+      "id": "15dec4294e9647a06",
+      "name": "Magarini",
+      "adminCode": "KE003017",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "daf29efa59637763c",
+      "bbox": [
+        39.14647596700007,
+        -3.349652503999948,
+        40.24001360200003,
+        -2.30911257199989
+      ]
+    },
+    {
+      "id": "e516d8576e02b916f",
+      "name": "Garsen",
+      "adminCode": "KE004018",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "9951a0b4989e4fa77",
+      "bbox": [
+        38.623676301000046,
+        -3.069262899999899,
+        40.73631319900011,
+        -1.783735377999847
+      ]
+    },
+    {
+      "id": "f16fd3167d5f7584e",
+      "name": "Galole",
+      "adminCode": "KE004019",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "9951a0b4989e4fa77",
+      "bbox": [
+        38.95323028600012,
+        -1.97716487799994,
+        40.18871878900006,
+        -1.034202785999923
+      ]
+    },
+    {
+      "id": "abdf04f1f96f58d19",
+      "name": "Bura",
+      "adminCode": "KE004020",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "9951a0b4989e4fa77",
+      "bbox": [
+        38.41955287200011,
+        -1.302382314999932,
+        40.01249167800012,
+        -0.001544238999884
+      ]
+    },
+    {
+      "id": "b80b45d580a004b74",
+      "name": "Lamu East",
+      "adminCode": "KE005021",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f18e2a36cc606cd4e",
+      "bbox": [
+        40.73571777300003,
+        -2.153503417999957,
+        41.531311035000044,
+        -1.661315917999957
+      ]
+    },
+    {
+      "id": "d413b33db07530cc9",
+      "name": "Lamu West",
+      "adminCode": "KE005022",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f18e2a36cc606cd4e",
+      "bbox": [
+        40.212176223000085,
+        -2.466639114999964,
+        40.98767089800003,
+        -1.794799804999968
+      ]
+    },
+    {
+      "id": "e3f756e1783a1bc46",
+      "name": "Taveta",
+      "adminCode": "KE006023",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "61f5a4560c7b9b119",
+      "bbox": [
+        37.584371568,
+        -3.878708143999972,
+        38.314121586,
+        -2.999079689999917
+      ]
+    },
+    {
+      "id": "3b8b41a47863aaa75",
+      "name": "Wundanyi",
+      "adminCode": "KE006024",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "61f5a4560c7b9b119",
+      "bbox": [
+        38.13353732000007,
+        -3.431280627999911,
+        38.44220731800016,
+        -3.166282434999971
+      ]
+    },
+    {
+      "id": "45a552bb3c78202b0",
+      "name": "Mwatate",
+      "adminCode": "KE006025",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "61f5a4560c7b9b119",
+      "bbox": [
+        38.05848717400016,
+        -4.137970692999829,
+        38.84086225900006,
+        -3.331082936999962
+      ]
+    },
+    {
+      "id": "38c1227c74baf9cac",
+      "name": "Voi",
+      "adminCode": "KE006026",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "61f5a4560c7b9b119",
+      "bbox": [
+        37.85354805600019,
+        -3.996315254999956,
+        39.21974895700015,
+        -2.67958740399996
+      ]
+    },
+    {
+      "id": "aa3db717eff21a0d9",
+      "name": "Dujis",
+      "adminCode": "KE007027",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        39.62594344200011,
+        -0.587386286999958,
+        39.89246078600013,
+        -0.263357819999953
+      ]
+    },
+    {
+      "id": "29baf45d0ef28fabf",
+      "name": "Balambala",
+      "adminCode": "KE007028",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        38.71063305700005,
+        -0.430959583999879,
+        40.00344746800016,
+        0.385603017000051
+      ]
+    },
+    {
+      "id": "7508edbc5dccbc533",
+      "name": "Lagdera",
+      "adminCode": "KE007029",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        38.65876263600006,
+        0.006304533,
+        39.91390974100017,
+        0.995885165000118
+      ]
+    },
+    {
+      "id": "39df2fd85d00f9ffe",
+      "name": "Dadaab",
+      "adminCode": "KE007030",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        39.502256796000154,
+        -0.339169746999971,
+        40.993140762,
+        0.463301085000182
+      ]
+    },
+    {
+      "id": "19ce526457cd77118",
+      "name": "Fafi",
+      "adminCode": "KE007031",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        39.81321990000009,
+        -1.593995484999937,
+        41.004350256000066,
+        0.029530253000019
+      ]
+    },
+    {
+      "id": "ff8606f96416dbe88",
+      "name": "Ijara",
+      "adminCode": "KE007032",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e2bc6bbd98ef974f5",
+      "bbox": [
+        40.10361131200017,
+        -2.035650818999898,
+        41.56263972600004,
+        -0.828945484999906
+      ]
+    },
+    {
+      "id": "c2bb867ecc70cc460",
+      "name": "Wajir North",
+      "adminCode": "KE008033",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        38.887599945000034,
+        2.283822628999985,
+        40.26368103800007,
+        3.695313823000049
+      ]
+    },
+    {
+      "id": "cf70f15a4f2ae8005",
+      "name": "Wajir East",
+      "adminCode": "KE008034",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        40.00351629500011,
+        1.687070746000074,
+        40.992553585,
+        2.325220776000037
+      ]
+    },
+    {
+      "id": "42227b1750bd3c371",
+      "name": "Tarbaj",
+      "adminCode": "KE008035",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        39.81706561100003,
+        1.782897949000187,
+        40.72252908200011,
+        2.979971485000021
+      ]
+    },
+    {
+      "id": "a7bb3a24d16390dfa",
+      "name": "Wajir West",
+      "adminCode": "KE008036",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        38.989612579000095,
+        1.014970746000188,
+        40.04179806100012,
+        2.28210449200003
+      ]
+    },
+    {
+      "id": "4d7cdb7fa13ecab14",
+      "name": "Eldas",
+      "adminCode": "KE008037",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        38.92562398900009,
+        1.729675293000071,
+        40.02465358500018,
+        2.658318840000163
+      ]
+    },
+    {
+      "id": "3abff7c8bebe25c98",
+      "name": "Wajir South",
+      "adminCode": "KE008038",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "90938680a9cfaefa0",
+      "bbox": [
+        39.44388633800014,
+        0.183551085000033,
+        40.99275358500006,
+        1.742570746000069
+      ]
+    },
+    {
+      "id": "604db9970be701241",
+      "name": "Mandera West",
+      "adminCode": "KE009039",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        39.78513817800007,
+        2.979971485000021,
+        40.68378850900007,
+        3.932885311000121
+      ]
+    },
+    {
+      "id": "2d90f42aae12de925",
+      "name": "Banissa",
+      "adminCode": "KE009040",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        39.99021366800014,
+        3.713235311000119,
+        40.97954500600008,
+        4.282113721000144
+      ]
+    },
+    {
+      "id": "6ea4460edd4400be1",
+      "name": "Mandera North",
+      "adminCode": "KE009041",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        40.286618055000076,
+        3.091369228000019,
+        41.280970514000046,
+        4.115942033000067
+      ]
+    },
+    {
+      "id": "1fea346acfaef4ad1",
+      "name": "Mandera South",
+      "adminCode": "KE009042",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        40.26368103800007,
+        2.176178778000065,
+        41.18289119300016,
+        3.263969369000108
+      ]
+    },
+    {
+      "id": "292e7a7475f526454",
+      "name": "Mandera East",
+      "adminCode": "KE009043",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        41.25271854300007,
+        3.375014184000065,
+        41.9060214590001,
+        3.995916480000062
+      ]
+    },
+    {
+      "id": "00d90adbe04c834c5",
+      "name": "Lafey",
+      "adminCode": "KE009044",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "dd4ecdc5fdde6c029",
+      "bbox": [
+        40.89175294200015,
+        3.010499349000099,
+        41.483818543000154,
+        3.962111888000095
+      ]
+    },
+    {
+      "id": "ef4a07347988ff4ca",
+      "name": "Moyale",
+      "adminCode": "KE010045",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "11e1f4d02c23df41a",
+      "bbox": [
+        38.129317160000085,
+        2.148257644000012,
+        39.34586990800017,
+        3.656696320000037
+      ]
+    },
+    {
+      "id": "143fb846572a3be1b",
+      "name": "North Horr",
+      "adminCode": "KE010046",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "11e1f4d02c23df41a",
+      "bbox": [
+        36.04949188200004,
+        1.90322947500016,
+        38.9615451840001,
+        4.457326795000142
+      ]
+    },
+    {
+      "id": "5fa8d7592b770bb45",
+      "name": "Saku",
+      "adminCode": "KE010047",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "11e1f4d02c23df41a",
+      "bbox": [
+        37.75719070399998,
+        2.102968215999965,
+        38.18500900300012,
+        2.642333984000061
+      ]
+    },
+    {
+      "id": "a3a5a17c9d4750a65",
+      "name": "Laisamis",
+      "adminCode": "KE010048",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "11e1f4d02c23df41a",
+      "bbox": [
+        36.0513331090001,
+        1.263430463000134,
+        38.62893295300012,
+        3.344828367000105
+      ]
+    },
+    {
+      "id": "0f3038c52a2250356",
+      "name": "Isiolo North",
+      "adminCode": "KE011049",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "b5990d1c692b1d4e7",
+      "bbox": [
+        36.86376571700015,
+        0.263662696000097,
+        39.46192181100014,
+        2.099456261000114
+      ]
+    },
+    {
+      "id": "3d061dff68c74fc8b",
+      "name": "Isiolo South",
+      "adminCode": "KE011050",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "b5990d1c692b1d4e7",
+      "bbox": [
+        38.0625099180001,
+        -0.086491767999973,
+        39.46192181100014,
+        1.210846682000067
+      ]
+    },
+    {
+      "id": "1ad925c76ca391328",
+      "name": "Igembe South",
+      "adminCode": "KE012051",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.892965699000115,
+        -0.087327204999895,
+        38.41986592600006,
+        0.285798922000083
+      ]
+    },
+    {
+      "id": "07d98de87c6baae30",
+      "name": "Igembe Central",
+      "adminCode": "KE012052",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.726071494,
+        0.088253570000063,
+        38.328430176000154,
+        0.561025178000023
+      ]
+    },
+    {
+      "id": "64d0e1b838d9ae046",
+      "name": "Igembe North",
+      "adminCode": "KE012053",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.77260971100009,
+        0.306422785000052,
+        38.17636108400018,
+        0.671239948000107
+      ]
+    },
+    {
+      "id": "802277c413174e9d1",
+      "name": "Tigania West",
+      "adminCode": "KE012054",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.57284545900018,
+        0.001960698000062,
+        37.88915634200015,
+        0.340424606000056
+      ]
+    },
+    {
+      "id": "b8b533a3ef6d20b91",
+      "name": "Tigania East",
+      "adminCode": "KE012055",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.58082072000019,
+        0.011329285000102,
+        37.98623275800014,
+        0.528203879000159
+      ]
+    },
+    {
+      "id": "6bf404a08988d52eb",
+      "name": "North Imenti",
+      "adminCode": "KE012056",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.578229276,
+        -0.062822676999929,
+        37.937603951000085,
+        0.151157540000042
+      ]
+    },
+    {
+      "id": "1493053c3160c9fe8",
+      "name": "Buuri",
+      "adminCode": "KE012057",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.08807998100008,
+        -0.149574070999961,
+        37.67655181900017,
+        0.328885108000065
+      ]
+    },
+    {
+      "id": "1634722179b9c7ef3",
+      "name": "Cental Imenti",
+      "adminCode": "KE012058",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.30781173700012,
+        -0.149574070999961,
+        37.93201599100013,
+        0.234311346000027
+      ]
+    },
+    {
+      "id": "2812dd9e95072c14f",
+      "name": "South Imenti",
+      "adminCode": "KE012059",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "3d329fa6396ef3747",
+      "bbox": [
+        37.30781173700012,
+        -0.213340684999878,
+        37.868905509000115,
+        -0.021147531999873
+      ]
+    },
+    {
+      "id": "29245a441ee14b70f",
+      "name": "Nithi",
+      "adminCode": "KE013060",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "279f88777cdaa683e",
+      "bbox": [
+        37.30781173700012,
+        -0.451542566999933,
+        37.89589246100019,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "7fd0cf5e59c12932e",
+      "name": "Maara",
+      "adminCode": "KE013061",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "279f88777cdaa683e",
+      "bbox": [
+        37.30781173700012,
+        -0.319159328999945,
+        37.84461021400017,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "853d11bcea906b598",
+      "name": "Tharaka",
+      "adminCode": "KE013062",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "279f88777cdaa683e",
+      "bbox": [
+        37.79479370100006,
+        -0.42811163499988,
+        38.3093605040001,
+        0.068584019000184
+      ]
+    },
+    {
+      "id": "6d710f2050b0124b5",
+      "name": "Manyatta",
+      "adminCode": "KE014063",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "264db75b0365a18f2",
+      "bbox": [
+        37.30781173700012,
+        -0.594068049999919,
+        37.599575043000016,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "d4cb2b87383c0ac5b",
+      "name": "Runyenjes",
+      "adminCode": "KE014064",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "264db75b0365a18f2",
+      "bbox": [
+        37.30781173700012,
+        -0.528896599999939,
+        37.71377860200005,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "0a25d4269e2063d1d",
+      "name": "Gachoka",
+      "adminCode": "KE014065",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "264db75b0365a18f2",
+      "bbox": [
+        37.26692581200018,
+        -0.916017055999873,
+        37.915917397000044,
+        -0.538764237999885
+      ]
+    },
+    {
+      "id": "4ae772b26963dff3b",
+      "name": "Siakago",
+      "adminCode": "KE014066",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "264db75b0365a18f2",
+      "bbox": [
+        37.54774447800014,
+        -0.664560177999931,
+        37.93617391600003,
+        -0.342616885999917
+      ]
+    },
+    {
+      "id": "f74986441ca919b0b",
+      "name": "Mwingi North",
+      "adminCode": "KE015067",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.88217926100009,
+        -0.760012348999965,
+        38.78692317400015,
+        -0.053206601999932
+      ]
+    },
+    {
+      "id": "904f83fc538eded25",
+      "name": "Mwingi West",
+      "adminCode": "KE015068",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.793742923000025,
+        -1.168511899999942,
+        38.159890747000134,
+        -0.738928079999937
+      ]
+    },
+    {
+      "id": "31dcb45f9d1738084",
+      "name": "Mwingi East",
+      "adminCode": "KE015069",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.98718886,
+        -1.202986567999972,
+        38.963211287000036,
+        -0.650195061999966
+      ]
+    },
+    {
+      "id": "1f208e985b763a12f",
+      "name": "Kitui West",
+      "adminCode": "KE015070",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.77345984300007,
+        -1.360900708999964,
+        38.072226088000036,
+        -1.120122551999884
+      ]
+    },
+    {
+      "id": "8ea8332e902a04128",
+      "name": "Kitui Rural",
+      "adminCode": "KE015071",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.595709852000084,
+        -1.896146535999947,
+        38.15538978600017,
+        -1.080048202999876
+      ]
+    },
+    {
+      "id": "a1db035b308675cae",
+      "name": "Kitui Central",
+      "adminCode": "KE015072",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.867714691,
+        -1.623106359999952,
+        38.1826996800001,
+        -1.151015281999889
+      ]
+    },
+    {
+      "id": "700e860f0732b57b4",
+      "name": "Kitui East",
+      "adminCode": "KE015073",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.990682602000106,
+        -1.74474697099987,
+        38.985134127000094,
+        -1.075426354999934
+      ]
+    },
+    {
+      "id": "fd5e06e252698389b",
+      "name": "Kitui South",
+      "adminCode": "KE015074",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "87db08373149cd4b0",
+      "bbox": [
+        37.902258929000084,
+        -3.068450101999872,
+        39.07565263400005,
+        -1.437997979999921
+      ]
+    },
+    {
+      "id": "7bad013100d7e8971",
+      "name": "Masinga",
+      "adminCode": "KE016075",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.225496292000116,
+        -1.125181779999821,
+        37.86804056200009,
+        -0.774464368999872
+      ]
+    },
+    {
+      "id": "05101eab73024b365",
+      "name": "Yatta",
+      "adminCode": "KE016076",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.34264129200005,
+        -1.497570551999956,
+        37.81951122300012,
+        -0.986078261999978
+      ]
+    },
+    {
+      "id": "5977085d1301acdec",
+      "name": "Kangundo",
+      "adminCode": "KE016077",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.273060608000094,
+        -1.428267617999893,
+        37.4240703590001,
+        -1.257578753999951
+      ]
+    },
+    {
+      "id": "b15629fdad7b05d9b",
+      "name": "Matungulu",
+      "adminCode": "KE016078",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.10172081000013,
+        -1.346755885999869,
+        37.38030222500015,
+        -1.06507623199991
+      ]
+    },
+    {
+      "id": "e7aaf021394157e3e",
+      "name": "Kathiani",
+      "adminCode": "KE016079",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.21805954000013,
+        -1.548340777999897,
+        37.38722610500014,
+        -1.292860388999884
+      ]
+    },
+    {
+      "id": "b6e71e97dc9da1bb2",
+      "name": "Mavoko",
+      "adminCode": "KE016080",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        36.878297806000035,
+        -1.622884958999919,
+        37.21940612800017,
+        -1.268566928999974
+      ]
+    },
+    {
+      "id": "52a6bb36b287109d5",
+      "name": "Machakos Town",
+      "adminCode": "KE016081",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.02900028300019,
+        -1.777768253999966,
+        37.41294642899999,
+        -1.359041094999839
+      ]
+    },
+    {
+      "id": "fd47d7cb067bfb8d3",
+      "name": "Mwala",
+      "adminCode": "KE016082",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "19f43c43059ba2148",
+      "bbox": [
+        37.34264183100004,
+        -1.644644230999972,
+        37.7538974470001,
+        -1.157910566999931
+      ]
+    },
+    {
+      "id": "41682440ace392cb8",
+      "name": "Mbooni",
+      "adminCode": "KE017083",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.33508046500003,
+        -1.785328864999883,
+        37.85594892500012,
+        -1.515175043999932
+      ]
+    },
+    {
+      "id": "29fb9144d9e36c7e4",
+      "name": "Kilome",
+      "adminCode": "KE017084",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.1412887570001,
+        -2.075882863999936,
+        37.46977901500014,
+        -1.588925099999926
+      ]
+    },
+    {
+      "id": "fd23b48ab61e86198",
+      "name": "Kaiti",
+      "adminCode": "KE017085",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.287555695000094,
+        -1.888379811999926,
+        37.631753104000154,
+        -1.68768638399996
+      ]
+    },
+    {
+      "id": "af127e91d6ebd704c",
+      "name": "Makueni",
+      "adminCode": "KE017086",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.39267590000014,
+        -2.161934089999932,
+        37.96347390700009,
+        -1.747588335999978
+      ]
+    },
+    {
+      "id": "807d3fb4df4eda362",
+      "name": "Kibwezi West",
+      "adminCode": "KE017087",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.59635257700006,
+        -2.542157148999934,
+        38.13575059900012,
+        -2.079005002999963
+      ]
+    },
+    {
+      "id": "4f68ca5b56887cfc4",
+      "name": "Kibwezi East",
+      "adminCode": "KE017088",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "505dd5360ca4a39a3",
+      "bbox": [
+        37.79613571200019,
+        -2.991851285999928,
+        38.51954293200009,
+        -2.320457696999881
+      ]
+    },
+    {
+      "id": "0f6b3ad7421bb4f5f",
+      "name": "Kinangop",
+      "adminCode": "KE018089",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5e166a810e52e1a82",
+      "bbox": [
+        36.49126052900016,
+        -0.918584417999853,
+        36.73668289200015,
+        -0.543500482999889
+      ]
+    },
+    {
+      "id": "01a423d77428162d6",
+      "name": "Kipipiri",
+      "adminCode": "KE018090",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5e166a810e52e1a82",
+      "bbox": [
+        36.38679835300013,
+        -0.624542070999837,
+        36.68516540500019,
+        -0.221292167999934
+      ]
+    },
+    {
+      "id": "7b51d118011f4e135",
+      "name": "Ol Kalou",
+      "adminCode": "KE018091",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5e166a810e52e1a82",
+      "bbox": [
+        36.290544891000025,
+        -0.458333027999913,
+        36.44118245400011,
+        -0.159337535999896
+      ]
+    },
+    {
+      "id": "7d3d3c79cf4888bbd",
+      "name": "Ol Jorok",
+      "adminCode": "KE018092",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5e166a810e52e1a82",
+      "bbox": [
+        36.20078119400017,
+        -0.390434046999928,
+        36.444606781,
+        0.033832897000082
+      ]
+    },
+    {
+      "id": "1c0c9be79fff98b58",
+      "name": "Ndaragwa",
+      "adminCode": "KE018093",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5e166a810e52e1a82",
+      "bbox": [
+        36.373241425000174,
+        -0.297282844999927,
+        36.69029998800005,
+        0.140240267000081
+      ]
+    },
+    {
+      "id": "3164b7b7ee3152e7e",
+      "name": "Tetu",
+      "adminCode": "KE019094",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        36.62316589400018,
+        -0.523655269999949,
+        37.082146963000184,
+        -0.382598900999938
+      ]
+    },
+    {
+      "id": "c207155d6de03459e",
+      "name": "Kieni",
+      "adminCode": "KE019095",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        36.60403823900003,
+        -0.456693872999949,
+        37.30781173700012,
+        0.015436302000182
+      ]
+    },
+    {
+      "id": "3cb747c827ad0be9f",
+      "name": "Mathira",
+      "adminCode": "KE019096",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        37.02776928000003,
+        -0.56290697999998,
+        37.30781173700012,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "57df489b33f9df544",
+      "name": "Othaya",
+      "adminCode": "KE019097",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        36.65799636800011,
+        -0.625236093999888,
+        37.00180348499998,
+        -0.480397432999894
+      ]
+    },
+    {
+      "id": "f7ad39da68fc512b4",
+      "name": "Mukurweni",
+      "adminCode": "KE019098",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        36.97332954400014,
+        -0.644683675999943,
+        37.17979144999998,
+        -0.512397393999834
+      ]
+    },
+    {
+      "id": "a78214253d3e024ea",
+      "name": "Nyeri Town",
+      "adminCode": "KE019099",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "aa40a90ad2ac100b7",
+      "bbox": [
+        36.87544695500014,
+        -0.48426634399982,
+        37.05407079100007,
+        -0.349245304999897
+      ]
+    },
+    {
+      "id": "95c21efa839a716b7",
+      "name": "Mwea",
+      "adminCode": "KE020100",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fd5f3334346327a95",
+      "bbox": [
+        37.261935425,
+        -0.772206663999953,
+        37.49604225200011,
+        -0.537483920999932
+      ]
+    },
+    {
+      "id": "6b5a888f22995a21f",
+      "name": "Gichugu",
+      "adminCode": "KE020101",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fd5f3334346327a95",
+      "bbox": [
+        37.274024963000045,
+        -0.565800155999966,
+        37.4477969080001,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "34bc3a145527a193d",
+      "name": "Ndia",
+      "adminCode": "KE020102",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fd5f3334346327a95",
+      "bbox": [
+        37.14383824700019,
+        -0.785282634999874,
+        37.34064483600008,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "478ecd1e09bcb460d",
+      "name": "Kirinyaga Central",
+      "adminCode": "KE020103",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fd5f3334346327a95",
+      "bbox": [
+        37.21389102900014,
+        -0.603821858999879,
+        37.32420063000018,
+        -0.149574070999961
+      ]
+    },
+    {
+      "id": "c725b9bd59b5291bd",
+      "name": "Kangema",
+      "adminCode": "KE021104",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.70576858500016,
+        -0.767459578999933,
+        37.118047012000034,
+        -0.607159661999901
+      ]
+    },
+    {
+      "id": "1481c3232acefbf2a",
+      "name": "Mathioya",
+      "adminCode": "KE021105",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.70783615100015,
+        -0.70756006199997,
+        37.12783317600008,
+        -0.564384877999942
+      ]
+    },
+    {
+      "id": "56f654f93682236e3",
+      "name": "Kiharu",
+      "adminCode": "KE021106",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.95668029800015,
+        -0.786040960999912,
+        37.270212174000164,
+        -0.633986745999948
+      ]
+    },
+    {
+      "id": "38399e30f277fbbb5",
+      "name": "Kigumo",
+      "adminCode": "KE021107",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.70660781900011,
+        -0.885400533999928,
+        37.14086151100008,
+        -0.663334369999916
+      ]
+    },
+    {
+      "id": "ff39d668c2c7ee0d9",
+      "name": "Maragwa",
+      "adminCode": "KE021108",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        37.00942611700009,
+        -1.010934710999948,
+        37.31893920900012,
+        -0.745368711999902
+      ]
+    },
+    {
+      "id": "e554395ff8799ff8e",
+      "name": "Kandara",
+      "adminCode": "KE021109",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.855160713000146,
+        -0.967451951999976,
+        37.16950378400003,
+        -0.794609217999948
+      ]
+    },
+    {
+      "id": "3a302c1dfb523a260",
+      "name": "Gatanga",
+      "adminCode": "KE021110",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "62db3d5230e421c6b",
+      "bbox": [
+        36.70672874400009,
+        -1.093485273999931,
+        37.42087555000012,
+        -0.681245266999952
+      ]
+    },
+    {
+      "id": "9971d4733fbfd2716",
+      "name": "Gatundu South",
+      "adminCode": "KE022111",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.65640258800005,
+        -1.063115739999887,
+        36.95519924200016,
+        -0.844447433999846
+      ]
+    },
+    {
+      "id": "86e0ff8e8f0b5bbac",
+      "name": "Gatundu North",
+      "adminCode": "KE022112",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.656520844000056,
+        -1.025221685999895,
+        36.98171642900013,
+        -0.807068704999949
+      ]
+    },
+    {
+      "id": "8c98c82de2e395443",
+      "name": "Juja",
+      "adminCode": "KE022113",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.86758598900008,
+        -1.202800153999931,
+        37.186893463000104,
+        -1.00258600699982
+      ]
+    },
+    {
+      "id": "3f6c0c5f13c5c7fc0",
+      "name": "Thika Town",
+      "adminCode": "KE022114",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.97548599200002,
+        -1.133792638999978,
+        37.3625982690001,
+        -0.977200030999938
+      ]
+    },
+    {
+      "id": "31bf4efc649869adb",
+      "name": "Ruiru",
+      "adminCode": "KE022115",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.912433624000016,
+        -1.25907536699998,
+        37.15961837800012,
+        -1.129572569999937
+      ]
+    },
+    {
+      "id": "0808eda9ea57341ee",
+      "name": "Githunguri",
+      "adminCode": "KE022116",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.67352295000012,
+        -1.124285737999912,
+        36.89672034200004,
+        -0.975223140999958
+      ]
+    },
+    {
+      "id": "25fd10e2eaa57b2ef",
+      "name": "Kiambu",
+      "adminCode": "KE022117",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.78690528900006,
+        -1.212483023999937,
+        36.89841842700014,
+        -1.103236038999967
+      ]
+    },
+    {
+      "id": "05bf6ecd9bd86d171",
+      "name": "Kiambaa",
+      "adminCode": "KE022118",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.71199332300006,
+        -1.224342107999917,
+        36.82615915900004,
+        -1.105044158999931
+      ]
+    },
+    {
+      "id": "3bd6e6db841675119",
+      "name": "Kabete",
+      "adminCode": "KE022119",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.64754390700011,
+        -1.247593712999958,
+        36.755336761000024,
+        -1.171478509999872
+      ]
+    },
+    {
+      "id": "6f768cbcf39fcb6cd",
+      "name": "Kikuyu",
+      "adminCode": "KE022120",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.49081420900018,
+        -1.31216794199986,
+        36.725519181000095,
+        -1.15463912499996
+      ]
+    },
+    {
+      "id": "9d77c28df5c680f1a",
+      "name": "Limuru",
+      "adminCode": "KE022121",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.512621307000074,
+        -1.240203380999901,
+        36.74463653600009,
+        -1.049795179999876
+      ]
+    },
+    {
+      "id": "9d6edd5981926b04a",
+      "name": "Lari",
+      "adminCode": "KE022122",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "706405f612ac71c25",
+      "bbox": [
+        36.55423560100013,
+        -1.073575973999937,
+        36.80860290500016,
+        -0.75662815599992
+      ]
+    },
+    {
+      "id": "886525ca78225d863",
+      "name": "Turkana North",
+      "adminCode": "KE023123",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        34.89489746100014,
+        3.337707520000038,
+        36.05047607400013,
+        5.414123535000044
+      ]
+    },
+    {
+      "id": "b2eedc67447c14912",
+      "name": "Turkana West",
+      "adminCode": "KE023124",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        33.99212646500018,
+        3.015075684000124,
+        35.215881348000096,
+        5.088500977000081
+      ]
+    },
+    {
+      "id": "1341c48a5207220e6",
+      "name": "Turkana Central",
+      "adminCode": "KE023125",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        35.424682617000144,
+        2.526123047000056,
+        36.38587506600004,
+        3.737437725000177
+      ]
+    },
+    {
+      "id": "ba164731d50fd5b42",
+      "name": "Loima",
+      "adminCode": "KE023126",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        34.57952880900007,
+        2.367375529000185,
+        35.6516723630001,
+        3.651916504000155
+      ]
+    },
+    {
+      "id": "56ab9a2e575477481",
+      "name": "Turkana South",
+      "adminCode": "KE023127",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        35.305751760000135,
+        1.705011268000135,
+        36.220275879000155,
+        3.051086425999983
+      ]
+    },
+    {
+      "id": "a899adafceca19731",
+      "name": "Turkana East",
+      "adminCode": "KE023128",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "933f92d5b2a3fd814",
+      "bbox": [
+        35.61328125,
+        0.912393913000074,
+        36.724673104000146,
+        2.829895020000151
+      ]
+    },
+    {
+      "id": "efc3c9c14201212da",
+      "name": "Kapenguria",
+      "adminCode": "KE024129",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2096541e7fcb78278",
+      "bbox": [
+        34.81998183300004,
+        1.168980956000155,
+        35.41404597000019,
+        1.930275441000049
+      ]
+    },
+    {
+      "id": "002e6e8fb937ef2ac",
+      "name": "Sigor",
+      "adminCode": "KE024130",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2096541e7fcb78278",
+      "bbox": [
+        35.336753845000146,
+        1.225240313000029,
+        35.7904028050001,
+        1.927448313000127
+      ]
+    },
+    {
+      "id": "8ab8febb6ccc31c66",
+      "name": "Kacheliba",
+      "adminCode": "KE024131",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2096541e7fcb78278",
+      "bbox": [
+        34.77591001299999,
+        1.306519298000069,
+        35.393684387000064,
+        2.652656197000169
+      ]
+    },
+    {
+      "id": "fcceccbf588a6e56d",
+      "name": "Pokot South",
+      "adminCode": "KE024132",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2096541e7fcb78278",
+      "bbox": [
+        35.12232208300003,
+        1.119952883000167,
+        35.46736017900008,
+        1.558445722000101
+      ]
+    },
+    {
+      "id": "d78cd5c21e932d680",
+      "name": "Samburu West",
+      "adminCode": "KE025133",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "40b792060e1da4ed0",
+      "bbox": [
+        36.38875496500003,
+        0.729133303000026,
+        37.00047579700009,
+        1.451052134000179
+      ]
+    },
+    {
+      "id": "c07742a11f467687b",
+      "name": "Samburu North",
+      "adminCode": "KE025134",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "40b792060e1da4ed0",
+      "bbox": [
+        36.288776065000036,
+        0.893618895999964,
+        37.408931702000075,
+        2.515847644000132
+      ]
+    },
+    {
+      "id": "28888fbcf082e7f7d",
+      "name": "Samburu East",
+      "adminCode": "KE025135",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "40b792060e1da4ed0",
+      "bbox": [
+        36.87401697400003,
+        0.566833623000036,
+        38.08049410000007,
+        1.650288628000112
+      ]
+    },
+    {
+      "id": "e48c768c376071021",
+      "name": "Kwanza",
+      "adminCode": "KE026136",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2b9c7ab944a328920",
+      "bbox": [
+        34.85934829700011,
+        1.020782709000116,
+        35.11183929400016,
+        1.259239555000136
+      ]
+    },
+    {
+      "id": "f131ee2d890c13426",
+      "name": "Endebess",
+      "adminCode": "KE026137",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2b9c7ab944a328920",
+      "bbox": [
+        34.579758520000155,
+        1.008264661000169,
+        34.93749237100019,
+        1.283823490000032
+      ]
+    },
+    {
+      "id": "bf6ca6ceb4dacaf1f",
+      "name": "Saboti",
+      "adminCode": "KE026138",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2b9c7ab944a328920",
+      "bbox": [
+        34.676799315000096,
+        0.848301542000115,
+        35.025901794000106,
+        1.05082428500009
+      ]
+    },
+    {
+      "id": "7ff0959303c7b4570",
+      "name": "Kiminini",
+      "adminCode": "KE026139",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2b9c7ab944a328920",
+      "bbox": [
+        34.80125280500005,
+        0.807500812000058,
+        35.11769167600016,
+        1.061446097000044
+      ]
+    },
+    {
+      "id": "b4c5984fae37d9206",
+      "name": "Cherangany",
+      "adminCode": "KE026140",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2b9c7ab944a328920",
+      "bbox": [
+        35.052878485000065,
+        0.892176389999975,
+        35.36257105600009,
+        1.200574562000156
+      ]
+    },
+    {
+      "id": "0d88f55d490114c51",
+      "name": "Soy",
+      "adminCode": "KE027141",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        35.113530153,
+        0.520232137000107,
+        35.37831687900007,
+        0.945917085000019
+      ]
+    },
+    {
+      "id": "baa244c0aefc42632",
+      "name": "Turbo",
+      "adminCode": "KE027142",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        34.85213977400008,
+        0.51502520300005,
+        35.27985716300003,
+        0.686341084000105
+      ]
+    },
+    {
+      "id": "a84733780ac033072",
+      "name": "Moiben",
+      "adminCode": "KE027143",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        35.27571868900009,
+        0.50243902200009,
+        35.50747914500005,
+        0.946050864000028
+      ]
+    },
+    {
+      "id": "753b956512a3ef4cf",
+      "name": "Ainabkoi",
+      "adminCode": "KE027144",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        35.28184940699998,
+        0.066313455000056,
+        35.590579368000135,
+        0.558946788000185
+      ]
+    },
+    {
+      "id": "ff998262a61adc8f2",
+      "name": "Kapseret",
+      "adminCode": "KE027145",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        35.14198744800012,
+        0.2773864830001,
+        35.34644699100011,
+        0.565325528000017
+      ]
+    },
+    {
+      "id": "3c5f6bc11a06b9e0d",
+      "name": "Kesses",
+      "adminCode": "KE027146",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4e933e8f90d42b56f",
+      "bbox": [
+        35.251537781000025,
+        0.008911581000064,
+        35.54649801500017,
+        0.509105454000121
+      ]
+    },
+    {
+      "id": "7c72b671732ed52e3",
+      "name": "Marakwet East",
+      "adminCode": "KE028147",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2f9073ac2261e521d",
+      "bbox": [
+        35.422075797000105,
+        0.949852134000082,
+        35.70907579700008,
+        1.319187852000084
+      ]
+    },
+    {
+      "id": "39787ccf9c303a1ec",
+      "name": "Marakwet West",
+      "adminCode": "KE028148",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2f9073ac2261e521d",
+      "bbox": [
+        35.15161889400014,
+        0.846517734000145,
+        35.643675797000185,
+        1.200574562000156
+      ]
+    },
+    {
+      "id": "4ab176c2618ce82bf",
+      "name": "Keiyo North",
+      "adminCode": "KE028149",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2f9073ac2261e521d",
+      "bbox": [
+        35.41167399700009,
+        0.523452134000024,
+        35.64277579700013,
+        0.869852134000098
+      ]
+    },
+    {
+      "id": "ae4377d96c852a7f7",
+      "name": "Keiyo South",
+      "adminCode": "KE028150",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2f9073ac2261e521d",
+      "bbox": [
+        35.46161175100019,
+        0.170152134000091,
+        35.72267579700019,
+        0.588566308000054
+      ]
+    },
+    {
+      "id": "d63c19356c07b6006",
+      "name": "Tinderet",
+      "adminCode": "KE029151",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        34.93743732800016,
+        -0.108306624999955,
+        35.43810475100014,
+        0.091915771000117
+      ]
+    },
+    {
+      "id": "a380ddd0312b27b35",
+      "name": "Aldai",
+      "adminCode": "KE029152",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        34.73965270200006,
+        -0.034154157999922,
+        35.130336206000095,
+        0.154781380000031
+      ]
+    },
+    {
+      "id": "bbf5d8643627c3918",
+      "name": "Nandi Hills",
+      "adminCode": "KE029153",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        35.108156248000114,
+        0.011037148000185,
+        35.387008667000146,
+        0.233163610000076
+      ]
+    },
+    {
+      "id": "dc22e701c41827234",
+      "name": "Chesumei",
+      "adminCode": "KE029154",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        34.96542707500009,
+        0.139952134000168,
+        35.24546289900013,
+        0.413752134000049
+      ]
+    },
+    {
+      "id": "db3a4796bfd8cb67c",
+      "name": "Emgwen",
+      "adminCode": "KE029155",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        34.90527579700017,
+        0.079852134000021,
+        35.28971364900019,
+        0.298502134000046
+      ]
+    },
+    {
+      "id": "7c4f5652821c52b03",
+      "name": "Mosop",
+      "adminCode": "KE029156",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "fa83a106d9558c32b",
+      "bbox": [
+        34.85213977400008,
+        0.273593405000099,
+        35.18100581300007,
+        0.563082222000048
+      ]
+    },
+    {
+      "id": "f93524895977f590e",
+      "name": "Tiaty",
+      "adminCode": "KE030157",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.63354464000008,
+        0.632964817000016,
+        36.489664689999984,
+        1.656535689000179
+      ]
+    },
+    {
+      "id": "0aa7e6131aed02c8c",
+      "name": "Baringo North",
+      "adminCode": "KE030158",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.596275797000146,
+        0.551052134000145,
+        36.03347579700011,
+        0.986852134000117
+      ]
+    },
+    {
+      "id": "b02aa90ea8b13a83b",
+      "name": "Baringo Central",
+      "adminCode": "KE030159",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.60237579699998,
+        0.214952134000157,
+        35.87737579700007,
+        0.602202579999982
+      ]
+    },
+    {
+      "id": "d8e4e1ae57d92c94c",
+      "name": "Baringo South",
+      "adminCode": "KE030160",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.77657579700019,
+        0.183926818000089,
+        36.29641498800015,
+        0.733452134000061
+      ]
+    },
+    {
+      "id": "eebfa50a9d9337b43",
+      "name": "Mogotio",
+      "adminCode": "KE030161",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.692775797000024,
+        -0.079647865999902,
+        36.21632579700014,
+        0.409852134000118
+      ]
+    },
+    {
+      "id": "668f4ac1e44bfcb0e",
+      "name": "Eldama Ravine",
+      "adminCode": "KE030162",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "a83c7ebeb37c3b7b4",
+      "bbox": [
+        35.52292096600007,
+        -0.203110219999928,
+        35.877066654000146,
+        0.190752134000149
+      ]
+    },
+    {
+      "id": "c39c31a7b101d79d4",
+      "name": "Laikipia West",
+      "adminCode": "KE031163",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2a7eb6a1ac8a7f6a1",
+      "bbox": [
+        36.55131530800003,
+        -0.293131469999878,
+        37.12063437000006,
+        0.143725564000079
+      ]
+    },
+    {
+      "id": "64633e6246cb715f6",
+      "name": "Laikipia East",
+      "adminCode": "KE031164",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2a7eb6a1ac8a7f6a1",
+      "bbox": [
+        36.22603278200012,
+        -0.019521450999889,
+        36.84774017300009,
+        0.71914079000004
+      ]
+    },
+    {
+      "id": "a94f7d63fae9c02c8",
+      "name": "Laikipia North",
+      "adminCode": "KE031165",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "2a7eb6a1ac8a7f6a1",
+      "bbox": [
+        36.404959886000086,
+        -0.01428409499988,
+        37.39556217200004,
+        0.871326993000025
+      ]
+    },
+    {
+      "id": "8cf440146ef4272c4",
+      "name": "Molo",
+      "adminCode": "KE032166",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.68337579700011,
+        -0.557077401999891,
+        35.88687579700007,
+        -0.169579510999824
+      ]
+    },
+    {
+      "id": "1144398cb60392f67",
+      "name": "Njoro",
+      "adminCode": "KE032167",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.83348439200017,
+        -0.71375621899989,
+        36.09757688900004,
+        -0.277247865999925
+      ]
+    },
+    {
+      "id": "e383006fda9a0f419",
+      "name": "Naivasha",
+      "adminCode": "KE032168",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        36.099886378000065,
+        -1.152578333999884,
+        36.599987030000136,
+        -0.608924692999949
+      ]
+    },
+    {
+      "id": "97932e27f934a1dd3",
+      "name": "Gilgil",
+      "adminCode": "KE032169",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        36.054575797000155,
+        -0.742947865999895,
+        36.48970558700012,
+        -0.31081980099998
+      ]
+    },
+    {
+      "id": "2bc48be1e5924c469",
+      "name": "Kuresoi South",
+      "adminCode": "KE032170",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.50645328000019,
+        -0.702581621999968,
+        35.74944651200019,
+        -0.385647865999942
+      ]
+    },
+    {
+      "id": "dab50fa19b3c931b6",
+      "name": "Kuresoi North",
+      "adminCode": "KE032171",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.413886582000146,
+        -0.453947865999908,
+        35.737975797000104,
+        -0.047747865999895
+      ]
+    },
+    {
+      "id": "a8354724bbb62a975",
+      "name": "Subukia",
+      "adminCode": "KE032172",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        36.0178757970001,
+        -0.184647865999921,
+        36.288998168000035,
+        0.235752134000052
+      ]
+    },
+    {
+      "id": "ace64b7dd2ae2d41e",
+      "name": "Rongai",
+      "adminCode": "KE032173",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.785627359000046,
+        -0.323547865999899,
+        36.24457579700004,
+        0.202122928000051
+      ]
+    },
+    {
+      "id": "b07b89f522feefdba",
+      "name": "Bahati",
+      "adminCode": "KE032174",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        36.05387579700016,
+        -0.333947865999846,
+        36.24608612100013,
+        -0.114647865999927
+      ]
+    },
+    {
+      "id": "9a7ef17097c92d566",
+      "name": "Nakuru Town West",
+      "adminCode": "KE032175",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        35.99837735200015,
+        -0.489947865999966,
+        36.09867579700017,
+        -0.249147865999873
+      ]
+    },
+    {
+      "id": "7e2639f9138ef4a95",
+      "name": "Nakuru Town East",
+      "adminCode": "KE032176",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0c2a3cdf6c3a5021c",
+      "bbox": [
+        36.06207683100013,
+        -0.500147865999963,
+        36.16517579700013,
+        -0.256999022999878
+      ]
+    },
+    {
+      "id": "eb0aa259ab8d848d8",
+      "name": "Kilgoris",
+      "adminCode": "KE033177",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        34.59006589900008,
+        -1.550535336999928,
+        35.24972739200007,
+        -0.893332903999976
+      ]
+    },
+    {
+      "id": "cc9fde809eefd4ef5",
+      "name": "Emurua Dikirr",
+      "adminCode": "KE033178",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        34.98231916000003,
+        -1.121052069999962,
+        35.220633384000166,
+        -0.887919667999881
+      ]
+    },
+    {
+      "id": "a826d9e266681e046",
+      "name": "Narok North",
+      "adminCode": "KE033179",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        35.49810791000016,
+        -1.229462392999892,
+        36.19187579700008,
+        -0.454247865999946
+      ]
+    },
+    {
+      "id": "f161fdebb12344bb5",
+      "name": "Narok East",
+      "adminCode": "KE033180",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        35.88510265400015,
+        -1.470380987999931,
+        36.3477821350001,
+        -0.841879047999953
+      ]
+    },
+    {
+      "id": "35b981dce81ad2793",
+      "name": "Narok South",
+      "adminCode": "KE033181",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        35.39717865000006,
+        -2.10458073999996,
+        36.08630275700017,
+        -0.613403319999975
+      ]
+    },
+    {
+      "id": "59527991e175fe5ea",
+      "name": "Narok West",
+      "adminCode": "KE033182",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e30b5e75a3c80a53e",
+      "bbox": [
+        34.989317147000065,
+        -1.838904440999954,
+        35.782947123000156,
+        -0.806084144999886
+      ]
+    },
+    {
+      "id": "1bacf85997f87b951",
+      "name": "Kajiado North",
+      "adminCode": "KE034183",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "7bf2e6e77495e2622",
+      "bbox": [
+        36.6284141540001,
+        -1.440854966999893,
+        36.820611954000185,
+        -1.298404097999935
+      ]
+    },
+    {
+      "id": "ab4733aba64c00481",
+      "name": "Kajiado Central",
+      "adminCode": "KE034184",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "7bf2e6e77495e2622",
+      "bbox": [
+        36.43806457500017,
+        -2.610562719999905,
+        37.18695314800016,
+        -1.740863680999894
+      ]
+    },
+    {
+      "id": "c5ed2752f0d170603",
+      "name": "Kajiado West",
+      "adminCode": "KE034185",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "7bf2e6e77495e2622",
+      "bbox": [
+        36.00013299500017,
+        -2.354097298999932,
+        36.838622093000026,
+        -1.037254646999941
+      ]
+    },
+    {
+      "id": "e720cfa20680a26fb",
+      "name": "Kajiado East",
+      "adminCode": "KE034186",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "7bf2e6e77495e2622",
+      "bbox": [
+        36.71767861500007,
+        -2.402654885999937,
+        37.72434616099997,
+        -1.381028089999973
+      ]
+    },
+    {
+      "id": "43a89f1c0fe10281b",
+      "name": "Kajiado South",
+      "adminCode": "KE034187",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "7bf2e6e77495e2622",
+      "bbox": [
+        36.901604450000036,
+        -3.187099617999934,
+        37.937362439000026,
+        -2.18527564999988
+      ]
+    },
+    {
+      "id": "2db4811e63a6dab4d",
+      "name": "Kipkelion East",
+      "adminCode": "KE035188",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.321997366000176,
+        -0.378906624999956,
+        35.67503658200019,
+        0.027888496000173
+      ]
+    },
+    {
+      "id": "ba90d520dce7e636e",
+      "name": "Kipkelion West",
+      "adminCode": "KE035189",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.22630214000003,
+        -0.242606624999837,
+        35.52999736600009,
+        -0.072806624999885
+      ]
+    },
+    {
+      "id": "844dd8bd620e08120",
+      "name": "Ainamoi",
+      "adminCode": "KE035190",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.16456736600003,
+        -0.408606624999948,
+        35.416597366000076,
+        -0.215303018999975
+      ]
+    },
+    {
+      "id": "0c53ae34db6fed4e6",
+      "name": "Buret",
+      "adminCode": "KE035191",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.04798163200019,
+        -0.661548736999976,
+        35.228547669000136,
+        -0.455306624999878
+      ]
+    },
+    {
+      "id": "d2738aaeafad420af",
+      "name": "Belgut",
+      "adminCode": "KE035192",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.084069116000194,
+        -0.484495793999884,
+        35.472635255000114,
+        -0.314324595999949
+      ]
+    },
+    {
+      "id": "dea832b4532abd687",
+      "name": "Sigowet/Soin",
+      "adminCode": "KE035193",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "6033250ba2f9dd5b4",
+      "bbox": [
+        35.004489708000165,
+        -0.498305280999944,
+        35.25305148500007,
+        -0.15301872799995
+      ]
+    },
+    {
+      "id": "a32033f5d0f65e415",
+      "name": "Sotik",
+      "adminCode": "KE036194",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0f01297163868317a",
+      "bbox": [
+        35.01186480400003,
+        -0.933666323999944,
+        35.26388258400016,
+        -0.597485737999932
+      ]
+    },
+    {
+      "id": "24433971fc51a3b97",
+      "name": "Chepalungu",
+      "adminCode": "KE036195",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0f01297163868317a",
+      "bbox": [
+        35.11661016500011,
+        -1.034959474999937,
+        35.37109375000006,
+        -0.754877447999945
+      ]
+    },
+    {
+      "id": "2707a0c82809e8a14",
+      "name": "Bomet East",
+      "adminCode": "KE036196",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0f01297163868317a",
+      "bbox": [
+        35.335790012000075,
+        -0.972964573999946,
+        35.54649541600003,
+        -0.722041461999936
+      ]
+    },
+    {
+      "id": "953e469a9e5bac9da",
+      "name": "Bomet Central",
+      "adminCode": "KE036197",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0f01297163868317a",
+      "bbox": [
+        35.1980312070001,
+        -0.817841923999936,
+        35.432957880000174,
+        -0.644234209999979
+      ]
+    },
+    {
+      "id": "5b8152021a48427f7",
+      "name": "Konoin",
+      "adminCode": "KE036198",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0f01297163868317a",
+      "bbox": [
+        35.17755823900012,
+        -0.675774732999912,
+        35.58727803500011,
+        -0.399200438999969
+      ]
+    },
+    {
+      "id": "02c2de5d1ac51a5ea",
+      "name": "Lugari",
+      "adminCode": "KE037199",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.688412545000176,
+        0.477271709000036,
+        35.062584549000064,
+        0.764384783000139
+      ]
+    },
+    {
+      "id": "4d2a804c733bfc4d6",
+      "name": "Likuyani",
+      "adminCode": "KE037200",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        35.01305868300017,
+        0.629858321000029,
+        35.15537896400002,
+        0.90339314900001
+      ]
+    },
+    {
+      "id": "85b79b924b44400eb",
+      "name": "Malava",
+      "adminCode": "KE037201",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.71026568900015,
+        0.335588286000075,
+        34.95647760600008,
+        0.604790424000043
+      ]
+    },
+    {
+      "id": "06b7ebc2d629d8a06",
+      "name": "Lurambi",
+      "adminCode": "KE037202",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.605075930000055,
+        0.183292833000166,
+        34.79590049600017,
+        0.36255449600003
+      ]
+    },
+    {
+      "id": "29fb5f2aa333f283c",
+      "name": "Navakholo",
+      "adminCode": "KE037203",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.577350461000094,
+        0.291731486000117,
+        34.77403613900003,
+        0.487463437000088
+      ]
+    },
+    {
+      "id": "1dba034cc404dd269",
+      "name": "Mumias West",
+      "adminCode": "KE037204",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.38394578400016,
+        0.179916958000149,
+        34.52206269600015,
+        0.377288786
+      ]
+    },
+    {
+      "id": "c7e9fd16d2800d83c",
+      "name": "Mumias East",
+      "adminCode": "KE037205",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.483886550000136,
+        0.268334407,
+        34.65215384600009,
+        0.403134159
+      ]
+    },
+    {
+      "id": "2a787f9fd2c601ccb",
+      "name": "Matungu",
+      "adminCode": "KE037206",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.34340923500014,
+        0.282219066000152,
+        34.58952591600007,
+        0.485090602000128
+      ]
+    },
+    {
+      "id": "f37629cc978a6217a",
+      "name": "Butere",
+      "adminCode": "KE037207",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.42478981300013,
+        0.145856645000094,
+        34.61662033700003,
+        0.308720403000052
+      ]
+    },
+    {
+      "id": "0a034cc9f32e30ede",
+      "name": "Khwisero",
+      "adminCode": "KE037208",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.456487749000075,
+        0.091259924000099,
+        34.68243004700008,
+        0.201961060000144
+      ]
+    },
+    {
+      "id": "70badceb4e5b9774f",
+      "name": "Shinyalu",
+      "adminCode": "KE037209",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.71243815700012,
+        0.176857415000029,
+        34.97847430400009,
+        0.400203055000134
+      ]
+    },
+    {
+      "id": "3453a54a0dd4adfa0",
+      "name": "Ikolomani",
+      "adminCode": "KE037210",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4db92d3a37cd07656",
+      "bbox": [
+        34.630932459000064,
+        0.124489940000103,
+        34.81733597800002,
+        0.263726557000155
+      ]
+    },
+    {
+      "id": "a8454004846e5c811",
+      "name": "Vihiga",
+      "adminCode": "KE038211",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f7597a68306d6a370",
+      "bbox": [
+        34.625419497999985,
+        -0.023656365999898,
+        34.749161590000085,
+        0.086696472000028
+      ]
+    },
+    {
+      "id": "803ab73640e88cf8a",
+      "name": "Sabatia",
+      "adminCode": "KE038212",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f7597a68306d6a370",
+      "bbox": [
+        34.67291259800015,
+        0.066862140000069,
+        34.827769353000065,
+        0.163347842000064
+      ]
+    },
+    {
+      "id": "d1fb72c84fe612208",
+      "name": "Hamisi",
+      "adminCode": "KE038213",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f7597a68306d6a370",
+      "bbox": [
+        34.71383372200006,
+        -0.023329210999918,
+        34.925849662000076,
+        0.208512160000055
+      ]
+    },
+    {
+      "id": "24e2f3184ebf50a05",
+      "name": "Luanda",
+      "adminCode": "KE038214",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f7597a68306d6a370",
+      "bbox": [
+        34.533028252000065,
+        -0.039850271999967,
+        34.67395038000018,
+        0.081744428000093
+      ]
+    },
+    {
+      "id": "8e6deb14c9744fc3c",
+      "name": "Emuhaya",
+      "adminCode": "KE038215",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f7597a68306d6a370",
+      "bbox": [
+        34.554048990000126,
+        0.029486811000027,
+        34.680572510000104,
+        0.130532383000116
+      ]
+    },
+    {
+      "id": "d87b574ec8996978c",
+      "name": "Mt. Elgon",
+      "adminCode": "KE039216",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.40771001300004,
+        0.768152748000091,
+        34.80095746000006,
+        1.150184714000147
+      ]
+    },
+    {
+      "id": "8c48d3993036ac516",
+      "name": "Sirisia",
+      "adminCode": "KE039217",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.36208194100004,
+        0.659960324000167,
+        34.57731451300015,
+        0.81402874000014
+      ]
+    },
+    {
+      "id": "5839963b0eac0af4d",
+      "name": "Kabuchai",
+      "adminCode": "KE039218",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.52990335900006,
+        0.589513002000047,
+        34.67462614700008,
+        0.803264702000035
+      ]
+    },
+    {
+      "id": "010cf06ff655cc5d8",
+      "name": "Bumula",
+      "adminCode": "KE039219",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.36813361500003,
+        0.444470164000052,
+        34.566696166999975,
+        0.691520576000016
+      ]
+    },
+    {
+      "id": "ae4720fa6d09f65a1",
+      "name": "Kanduyi",
+      "adminCode": "KE039220",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.497003555,
+        0.421280703999969,
+        34.68420664500013,
+        0.703432989000078
+      ]
+    },
+    {
+      "id": "579b87f4484d83c18",
+      "name": "Webuye East",
+      "adminCode": "KE039221",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.718042374000106,
+        0.540482515,
+        34.84316603100018,
+        0.765980733000049
+      ]
+    },
+    {
+      "id": "14aa1fc66d2934a9b",
+      "name": "Webuye West",
+      "adminCode": "KE039222",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.62589358600013,
+        0.451435521,
+        34.774521054000104,
+        0.744022244000121
+      ]
+    },
+    {
+      "id": "4bac38bf9d9772e28",
+      "name": "Kimilili",
+      "adminCode": "KE039223",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.641915555000026,
+        0.717985132000024,
+        34.81931705300008,
+        0.857207758000186
+      ]
+    },
+    {
+      "id": "bd4f90d820ba83806",
+      "name": "Tongaren",
+      "adminCode": "KE039224",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "e63184235887017eb",
+      "bbox": [
+        34.80128539100008,
+        0.667097162000175,
+        35.06757260100011,
+        0.88769806800002
+      ]
+    },
+    {
+      "id": "1e4cabc385eb42f2d",
+      "name": "Teso North",
+      "adminCode": "KE040225",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        34.21658104500017,
+        0.583202926000013,
+        34.43463117200008,
+        0.778068243000064
+      ]
+    },
+    {
+      "id": "495ab44d9110bd314",
+      "name": "Teso South",
+      "adminCode": "KE040226",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        34.09830273000017,
+        0.44970421000005,
+        34.348431557000026,
+        0.627256361000036
+      ]
+    },
+    {
+      "id": "5ad3d4a0263412e03",
+      "name": "Nambale",
+      "adminCode": "KE040227",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        34.21055760800016,
+        0.394280827000046,
+        34.40857934300004,
+        0.614981983000177
+      ]
+    },
+    {
+      "id": "60e74c5a274ada14c",
+      "name": "Matayos",
+      "adminCode": "KE040228",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        34.088879532000135,
+        0.30074429400014,
+        34.26195508000018,
+        0.478444955000157
+      ]
+    },
+    {
+      "id": "67ea500f1c60a5ca4",
+      "name": "Butula",
+      "adminCode": "KE040229",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        34.159464188000015,
+        0.261186223000095,
+        34.42196900400006,
+        0.426909120000118
+      ]
+    },
+    {
+      "id": "97318f2e080493676",
+      "name": "Funyula",
+      "adminCode": "KE040230",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        33.965397074000066,
+        0.126118515000144,
+        34.1793710340001,
+        0.363948799000184
+      ]
+    },
+    {
+      "id": "8be6a701221dfc372",
+      "name": "Budalangi",
+      "adminCode": "KE040231",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "5c4219716c8e5609a",
+      "bbox": [
+        33.91028865500016,
+        -0.027709632999972,
+        34.09512437100017,
+        0.181260509000026
+      ]
+    },
+    {
+      "id": "82ed4153b9dd61240",
+      "name": "Ugenya",
+      "adminCode": "KE041232",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        34.102946806000034,
+        0.121296063000102,
+        34.39623443400012,
+        0.313484479000067
+      ]
+    },
+    {
+      "id": "abc6cd3473afab2dc",
+      "name": "Ugunja",
+      "adminCode": "KE041233",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        34.21616589900009,
+        0.136596063000184,
+        34.45148540800017,
+        0.277496063000058
+      ]
+    },
+    {
+      "id": "9556d785ae3d03639",
+      "name": "Alego Usonga",
+      "adminCode": "KE041234",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        34.044256487999974,
+        -0.047299320999912,
+        34.38982923900011,
+        0.170696063000094
+      ]
+    },
+    {
+      "id": "635147039cab835e4",
+      "name": "Gem",
+      "adminCode": "KE041235",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        34.348718302000066,
+        -0.076513777999935,
+        34.55989574400019,
+        0.157696378000139
+      ]
+    },
+    {
+      "id": "a9aa200a2f8614184",
+      "name": "Bondo",
+      "adminCode": "KE041236",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        33.94796589900011,
+        -0.338379956999916,
+        34.38236589900009,
+        0.040191455000183
+      ]
+    },
+    {
+      "id": "0602e3562a3fd2257",
+      "name": "Rarieda",
+      "adminCode": "KE041237",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "4c651735966ede27c",
+      "bbox": [
+        34.24021951200018,
+        -0.428403936999928,
+        34.483092932000034,
+        -0.060528260999888
+      ]
+    },
+    {
+      "id": "235c1f63d6aba10bb",
+      "name": "Kisumu East",
+      "adminCode": "KE042238",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.6676445010001,
+        -0.189528399999972,
+        34.89880847900008,
+        0.025650060999965
+      ]
+    },
+    {
+      "id": "1546a83dc4b51fa55",
+      "name": "Kisumu West",
+      "adminCode": "KE042239",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.573410988000035,
+        -0.190056547999973,
+        34.765774536000094,
+        0.01334371400003
+      ]
+    },
+    {
+      "id": "12b85b5b0b3b74af5",
+      "name": "Kisumu Central",
+      "adminCode": "KE042240",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.6676445010001,
+        -0.189349591999928,
+        34.785587311000086,
+        -0.045725875999949
+      ]
+    },
+    {
+      "id": "23792e3f4be1efcd4",
+      "name": "Seme",
+      "adminCode": "KE042241",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.415065899000126,
+        -0.298631745999955,
+        34.6676445010001,
+        -0.014140243999975
+      ]
+    },
+    {
+      "id": "db7dff1bf686d9224",
+      "name": "Nyando",
+      "adminCode": "KE042242",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.5303652930001,
+        -0.296420841999918,
+        35.129520416000105,
+        -0.117022131999818
+      ]
+    },
+    {
+      "id": "b44a397a26b8ae355",
+      "name": "Muhoroni",
+      "adminCode": "KE042243",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.80360140100004,
+        -0.250556624999945,
+        35.34310802300007,
+        -0.002150101999916
+      ]
+    },
+    {
+      "id": "ae269dc7ad67cea95",
+      "name": "Nyakach",
+      "adminCode": "KE042244",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "eb3194a51aae7157a",
+      "bbox": [
+        34.705009459999985,
+        -0.414272222999955,
+        35.05210808800018,
+        -0.223000309999861
+      ]
+    },
+    {
+      "id": "15946a09ecad9294d",
+      "name": "Kasipul",
+      "adminCode": "KE043245",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.6291658990001,
+        -0.602703936999944,
+        34.79566589900003,
+        -0.402003936999961
+      ]
+    },
+    {
+      "id": "63d50cbdc93e47e65",
+      "name": "Kabondo Kasipul",
+      "adminCode": "KE043246",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.74704229300016,
+        -0.52798225499987,
+        35.02123868600006,
+        -0.365524653999955
+      ]
+    },
+    {
+      "id": "378bf96f4d00258f6",
+      "name": "Karachuonyo",
+      "adminCode": "KE043247",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.38671174300009,
+        -0.485403936999887,
+        34.818912390000094,
+        -0.256758063999939
+      ]
+    },
+    {
+      "id": "12fb2f08f804f1ac6",
+      "name": "Rangwe",
+      "adminCode": "KE043248",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.37586589900013,
+        -0.661825437999937,
+        34.66026589900008,
+        -0.364329750999843
+      ]
+    },
+    {
+      "id": "4055c305f19528b04",
+      "name": "Homa Bay",
+      "adminCode": "KE043249",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.357520491000116,
+        -0.667303936999929,
+        34.56766345400018,
+        -0.373403936999864
+      ]
+    },
+    {
+      "id": "2defb6120e16b1fb3",
+      "name": "Ndhiwa",
+      "adminCode": "KE043250",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        34.19726589900006,
+        -0.86624554399998,
+        34.55916589900011,
+        -0.556803936999927
+      ]
+    },
+    {
+      "id": "f4e478778892bf7f6",
+      "name": "Suba North",
+      "adminCode": "KE043251",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        33.92086589900015,
+        -0.672483170999897,
+        34.448165899,
+        -0.338103936999971
+      ]
+    },
+    {
+      "id": "b7f523cc256e0022e",
+      "name": "Suba South",
+      "adminCode": "KE043252",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "f459c260355b4a2c1",
+      "bbox": [
+        33.917065899000136,
+        -0.805203936999931,
+        34.30776589900012,
+        -0.469803936999938
+      ]
+    },
+    {
+      "id": "38803b918c0bc6a3f",
+      "name": "Rongo",
+      "adminCode": "KE044253",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.53171589900012,
+        -0.985403936999944,
+        34.64303019100009,
+        -0.649314524999966
+      ]
+    },
+    {
+      "id": "3f1b3fdde3fe841cf",
+      "name": "Awendo",
+      "adminCode": "KE044254",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.46366589900015,
+        -1.01620393699983,
+        34.62156589900013,
+        -0.72830855199993
+      ]
+    },
+    {
+      "id": "61669bce44cbf6051",
+      "name": "Suna East",
+      "adminCode": "KE044255",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.334130608000066,
+        -1.15468107099997,
+        34.63339209700018,
+        -0.977153936999912
+      ]
+    },
+    {
+      "id": "8dfe1274cd40d3df7",
+      "name": "Suna West",
+      "adminCode": "KE044256",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.24946589900003,
+        -1.185703936999971,
+        34.507565899000156,
+        -0.997075630999973
+      ]
+    },
+    {
+      "id": "48d17ceff2be7ec41",
+      "name": "Uriri",
+      "adminCode": "KE044257",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.324635941999986,
+        -1.07180393699997,
+        34.598365899000044,
+        -0.815903936999973
+      ]
+    },
+    {
+      "id": "511d9dcc4589aa771",
+      "name": "Nyatike",
+      "adminCode": "KE044258",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        33.925865899000144,
+        -1.113703936999968,
+        34.35626589900005,
+        -0.742403936999949
+      ]
+    },
+    {
+      "id": "5032f22500be3ee82",
+      "name": "Kuria West",
+      "adminCode": "KE044259",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.375265899000055,
+        -1.301803936999875,
+        34.63526589900016,
+        -1.102603936999913
+      ]
+    },
+    {
+      "id": "cdc87e903df097a2e",
+      "name": "Kuria East",
+      "adminCode": "KE044260",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "0e7410b98cb2a2ef2",
+      "bbox": [
+        34.534769429000164,
+        -1.386716241999977,
+        34.7305351440001,
+        -1.095503936999876
+      ]
+    },
+    {
+      "id": "bc68481f3812b9f4b",
+      "name": "Bonchari",
+      "adminCode": "KE045261",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.63466833300009,
+        -0.722403936999967,
+        34.75656589900012,
+        -0.596203936999927
+      ]
+    },
+    {
+      "id": "3577e593b00f23354",
+      "name": "South Mugirango",
+      "adminCode": "KE045262",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.610465899000076,
+        -0.971103936999896,
+        34.714765899000156,
+        -0.704044513999975
+      ]
+    },
+    {
+      "id": "bf5426b2f7544514f",
+      "name": "Bomachoge Borabu",
+      "adminCode": "KE045263",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.685465899000064,
+        -0.961703936999925,
+        34.83066589900011,
+        -0.849700487999883
+      ]
+    },
+    {
+      "id": "359494d54c478bc34",
+      "name": "Bobasi",
+      "adminCode": "KE045264",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.711915899000076,
+        -0.932703936999872,
+        34.917165899000054,
+        -0.705265573999895
+      ]
+    },
+    {
+      "id": "ef22d1be63bfecfec",
+      "name": "Bomachoge Chache",
+      "adminCode": "KE045265",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.67476589900008,
+        -0.896102298999949,
+        34.76106589900013,
+        -0.712753936999889
+      ]
+    },
+    {
+      "id": "f7204d4ba8002536b",
+      "name": "Nyaribari Masaba",
+      "adminCode": "KE045266",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.85446589900005,
+        -0.910703936999937,
+        35.01282502000009,
+        -0.758496702999878
+      ]
+    },
+    {
+      "id": "3343705997752accc",
+      "name": "Nyaribari Chache",
+      "adminCode": "KE045267",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.74536589899998,
+        -0.812631496999927,
+        34.91686589900007,
+        -0.661303936999957
+      ]
+    },
+    {
+      "id": "b713bae86671f8b48",
+      "name": "Kitutu Chache North",
+      "adminCode": "KE045268",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.744965899000135,
+        -0.626700764999839,
+        34.890465899000105,
+        -0.501603936999913
+      ]
+    },
+    {
+      "id": "aeef623e25bf15976",
+      "name": "Kitutu Chache South",
+      "adminCode": "KE045269",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "98a4c621ad3ad12d5",
+      "bbox": [
+        34.68996589900007,
+        -0.677703936999933,
+        34.81874544300007,
+        -0.555603936999944
+      ]
+    },
+    {
+      "id": "96a7b00daf87933ac",
+      "name": "Kitutu Masaba",
+      "adminCode": "KE046270",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "77244813efc5a33a6",
+      "bbox": [
+        34.7786158990001,
+        -0.782615195999881,
+        35.019565899000156,
+        -0.595898448999947
+      ]
+    },
+    {
+      "id": "25023f6258470c53e",
+      "name": "West Mugirango",
+      "adminCode": "KE046271",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "77244813efc5a33a6",
+      "bbox": [
+        34.85896888800005,
+        -0.67634565599991,
+        35.019665899000074,
+        -0.468603936999955
+      ]
+    },
+    {
+      "id": "192a2f99d95a5ebe3",
+      "name": "North Mugirango",
+      "adminCode": "KE046272",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "77244813efc5a33a6",
+      "bbox": [
+        34.92926589900003,
+        -0.597603936999917,
+        35.045890432000135,
+        -0.409650856999917
+      ]
+    },
+    {
+      "id": "bdfe69315b9e7f11e",
+      "name": "Borabu",
+      "adminCode": "KE046273",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "77244813efc5a33a6",
+      "bbox": [
+        34.94186379700005,
+        -0.887919667999881,
+        35.09128533900014,
+        -0.496155280999858
+      ]
+    },
+    {
+      "id": "a3e84b781fb356aa7",
+      "name": "Westlands",
+      "adminCode": "KE047274",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.71853561400019,
+        -1.275540232999901,
+        36.84626388600003,
+        -1.189049839999882
+      ]
+    },
+    {
+      "id": "423613fa908c805f4",
+      "name": "Kilimani",
+      "adminCode": "KE047275",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.73340805900017,
+        -1.297856568999919,
+        36.81967544600013,
+        -1.256250023999883
+      ]
+    },
+    {
+      "id": "6a1ad0a616fedac6d",
+      "name": "Dagoretti",
+      "adminCode": "KE047276",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.67829093900019,
+        -1.30594181999993,
+        36.76030043500003,
+        -1.255783915999871
+      ]
+    },
+    {
+      "id": "5f03ce043fe33f9d9",
+      "name": "Langata",
+      "adminCode": "KE047277",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.66347503700018,
+        -1.442147810999927,
+        36.96208190900006,
+        -1.293397545999937
+      ]
+    },
+    {
+      "id": "c9b5844ff6f0f5295",
+      "name": "Kibra",
+      "adminCode": "KE047278",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.74735727000012,
+        -1.317457138999885,
+        36.82328796400009,
+        -1.290576457999919
+      ]
+    },
+    {
+      "id": "f2cc3948732e024c1",
+      "name": "Roysambu",
+      "adminCode": "KE047279",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.83025487300017,
+        -1.257959620999941,
+        36.94163840200008,
+        -1.15797710399994
+      ]
+    },
+    {
+      "id": "cac60f0945a302d16",
+      "name": "Kasarani",
+      "adminCode": "KE047280",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.86921364900007,
+        -1.301037638999958,
+        37.10367012000012,
+        -1.202702760999955
+      ]
+    },
+    {
+      "id": "4f561bb00091ba0ec",
+      "name": "Ruaraka",
+      "adminCode": "KE047281",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.850658035000095,
+        -1.260590254999897,
+        36.91127777100007,
+        -1.231146513999818
+      ]
+    },
+    {
+      "id": "786938e99f151a914",
+      "name": "Embakasi South",
+      "adminCode": "KE047282",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.84025472300016,
+        -1.370835022999927,
+        36.91350698200006,
+        -1.304208013999926
+      ]
+    },
+    {
+      "id": "014c4046d4648e4b8",
+      "name": "Embakasi North",
+      "adminCode": "KE047283",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.87730619600006,
+        -1.259923457999889,
+        36.93016521700014,
+        -1.234979271999862
+      ]
+    },
+    {
+      "id": "97eaf0425e99f7d24",
+      "name": "Embakasi Central",
+      "adminCode": "KE047284",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.89754306200007,
+        -1.288853465999921,
+        36.93800544700014,
+        -1.250588893999975
+      ]
+    },
+    {
+      "id": "3bb6539a9a93c61b9",
+      "name": "Embakasi East",
+      "adminCode": "KE047285",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.88134681900016,
+        -1.359906978999959,
+        36.99024963400018,
+        -1.257567404999975
+      ]
+    },
+    {
+      "id": "8700b84cf786b929d",
+      "name": "Embakasi West",
+      "adminCode": "KE047286",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.86451568600012,
+        -1.292383450999978,
+        36.91367721600011,
+        -1.253943591999928
+      ]
+    },
+    {
+      "id": "8a2b4d7e194a1c120",
+      "name": "Makadara",
+      "adminCode": "KE047287",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.83766174300018,
+        -1.314925093999875,
+        36.888640621000036,
+        -1.274634420999917
+      ]
+    },
+    {
+      "id": "ac5814c02d8dfaa4a",
+      "name": "Kamukunji",
+      "adminCode": "KE047288",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.831549050000035,
+        -1.291932701999883,
+        36.878704071000186,
+        -1.258994340999948
+      ]
+    },
+    {
+      "id": "18e7ebd98ef9076ff",
+      "name": "Starehe",
+      "adminCode": "KE047289",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.81180869200006,
+        -1.318529793999971,
+        36.86053848300014,
+        -1.261745034999876
+      ]
+    },
+    {
+      "id": "c657cbb1328106fb3",
+      "name": "Mathare",
+      "adminCode": "KE047290",
+      "adminLevel": 2,
+      "levelName": "Sub-county",
+      "countryCode": "KE",
+      "countryIso3": "KEN",
+      "parentId": "d3fab8ce589032a82",
+      "bbox": [
+        36.83707656800016,
+        -1.265022396999882,
+        36.87826156600005,
+        -1.246514372999911
+      ]
+    }
+  ]
+}

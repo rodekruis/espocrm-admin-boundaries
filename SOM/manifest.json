@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "countryCode": "SO",
+  "countryIso3": "SOM",
+  "idNamespace": "hdx-cod-ab-v1",
+  "geometryIncludedInRecords": false,
+  "source": {
+    "dataset": "https://data.humdata.org/dataset/cod-ab-som",
+    "datasetId": "ec140a63-5330-4376-a3df-c7ebf73cfc3c",
+    "resourceId": "79f7f826-6028-4650-b8f7-2d5e53032955",
+    "resourceUrl": "https://data.humdata.org/dataset/ec140a63-5330-4376-a3df-c7ebf73cfc3c/resource/79f7f826-6028-4650-b8f7-2d5e53032955/download/som_admin_boundaries.geojson.zip",
+    "sourceArchiveSha256": "0d9585793df7de5cde92463155495eb8bb2f419cd458ca7e6227a0de2ebe45bc",
+    "sourceArchiveBytes": 2435213,
+    "datasetDate": "[2025-01-08T00:00:00 TO 2025-10-30T23:59:59]",
+    "resourceModified": "2026-01-26T16:13:19.026159",
+    "publisher": "OCHA Field Information Services Section (FISS)",
+    "attribution": "OCHA Somalia; OCHA/HDX; CC BY 3.0 IGO",
+    "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+    "disclaimer": "The boundaries and names shown and the designations used on this data do not imply official endorsement or acceptance by the United Nations.",
+    "caveats": null,
+    "excludedFiles": [
+      "som_admin0_em.geojson",
+      "som_admin1_em.geojson",
+      "som_admin2_em.geojson",
+      "som_adminlines.geojson",
+      "som_adminlines_em.geojson",
+      "som_adminpoints.geojson",
+      "som_opz1.geojson",
+      "som_opz1_em.geojson",
+      "som_opz1lines_em.geojson",
+      "som_opz2.geojson",
+      "som_opz2_em.geojson",
+      "som_opz2lines_em.geojson",
+      "som_opz2points.geojson",
+      "som_undetermined_em.geojson"
+    ],
+    "datasetDescription": "Somalia administrative level 0-2 boundaries (COD-AB) dataset version 03.  \n  \nThis dataset is structured into 2 levels:  \n- Admin 1: 18 Region  \n- Admin 2: 91 District  \n  \n  \nDates associated with this dataset:  \n- 30 October 2025: dataset reviewed for accuracy and completeness  \n- 08 January 2025: valid for use by the humanitarian community  \n- 23 June 1984: last edit to the dataset before publishing  \n- 23 June 1984: boundaries created by the source  \n  \nQuality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  \n  \nPart of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  },
+  "build": {
+    "crs": "OGC:CRS84",
+    "minimumZoom": 0,
+    "maximumZoom": 8,
+    "tinyPolygonReduction": false,
+    "featureDropping": false,
+    "tippecanoeVersion": "tippecanoe v2.53.0",
+    "geometryGeneralization": "Tippecanoe default zoom-dependent simplification and quantization"
+  },
+  "records": {
+    "file": "records.json",
+    "sha256": "1b510b243def825746992e61300f505a4c6e975b3fea83fbf03c1456bd27a925",
+    "count": 110,
+    "bytes": 41560,
+    "countsByLevel": {
+      "0": 1,
+      "1": 18,
+      "2": 91
+    }
+  },
+  "tiles": [
+    {
+      "file": "admin-0.mbtiles",
+      "level": 0,
+      "sha256": "5d5bf9bb18504ced7baff378bcd2fb0e5f76272e25252bdcb02dc1435a015449",
+      "bytes": 77824,
+      "featureCount": 1,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-1.mbtiles",
+      "level": 1,
+      "sha256": "e58a67e0bf7094deab5ec57dd86f6e88a24ffa912e9dca306bf31d3bcf50e77e",
+      "bytes": 122880,
+      "featureCount": 18,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-2.mbtiles",
+      "level": 2,
+      "sha256": "5db884701c746cc1a61fb6aa15373e01e52bca7082443c80f2ecdcd42292e25f",
+      "bytes": 229376,
+      "featureCount": 91,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    }
+  ]
+}

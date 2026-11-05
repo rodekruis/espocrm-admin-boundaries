@@ -1,0 +1,1767 @@
+{
+  "schema": 1,
+  "countryCode": "SO",
+  "countryIso3": "SOM",
+  "records": [
+    {
+      "id": "ab11d29b657832427",
+      "name": "Somalia",
+      "adminCode": "SO",
+      "adminLevel": 0,
+      "levelName": "Country",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": null,
+      "bbox": [
+        40.994875075000095,
+        -1.664897400999905,
+        51.41303253200016,
+        11.985202789000141
+      ]
+    },
+    {
+      "id": "93ec01531543b91f3",
+      "name": "Awdal",
+      "adminCode": "SO11",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        42.68310546900017,
+        9.657287598000153,
+        44.23667671700019,
+        11.511465902000111
+      ]
+    },
+    {
+      "id": "9e19abbd9f8870046",
+      "name": "Woqooyi Galbeed",
+      "adminCode": "SO12",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        43.28967285200008,
+        8.771959543000037,
+        46.031492600000036,
+        10.867492676000097
+      ]
+    },
+    {
+      "id": "57d1a9dad33ec2dd8",
+      "name": "Togdheer",
+      "adminCode": "SO13",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        44.690954211000076,
+        8.000122070000145,
+        47.10107421900017,
+        10.170898437000062
+      ]
+    },
+    {
+      "id": "71dff64d0823064e9",
+      "name": "Sool",
+      "adminCode": "SO14",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        46.0495305770001,
+        8.000122070000145,
+        49.08111190799997,
+        10.050289796000186
+      ]
+    },
+    {
+      "id": "b9cc8fb2bfc57d299",
+      "name": "Sanaag",
+      "adminCode": "SO15",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        46.0110549260001,
+        9.421081543000128,
+        49.06105066500004,
+        11.322547912000061
+      ]
+    },
+    {
+      "id": "844e267fc29553fa7",
+      "name": "Bari",
+      "adminCode": "SO16",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        48.919128418000184,
+        8.329104157000131,
+        51.41303253200016,
+        11.985202789000141
+      ]
+    },
+    {
+      "id": "f53b31c7db3874869",
+      "name": "Nugaal",
+      "adminCode": "SO17",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        47.560173798000164,
+        7.39929199200003,
+        50.17608486900008,
+        9.140529632000153
+      ]
+    },
+    {
+      "id": "9d90df13fd39da9dc",
+      "name": "Mudug",
+      "adminCode": "SO18",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        46.53827408500018,
+        4.332891012000118,
+        49.65069580100004,
+        7.711120605000019
+      ]
+    },
+    {
+      "id": "5b075ed01a48835eb",
+      "name": "Galgaduud",
+      "adminCode": "SO19",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        45.481148064000195,
+        3.47233394400007,
+        47.83482460700003,
+        6.520982803000095
+      ]
+    },
+    {
+      "id": "01170fd650ffc4f1a",
+      "name": "Hiraan",
+      "adminCode": "SO20",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        44.5921196430001,
+        3.201477051000097,
+        46.396827698000095,
+        5.432947894000165
+      ]
+    },
+    {
+      "id": "abfdf7eeb5311f29b",
+      "name": "Middle Shabelle",
+      "adminCode": "SO21",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        45.07096458000018,
+        2.151650667000183,
+        47.03804830500002,
+        3.891447164000169
+      ]
+    },
+    {
+      "id": "7ff73fb3de28da0cd",
+      "name": "Banadir",
+      "adminCode": "SO22",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        45.20830255900012,
+        1.96843519600003,
+        45.60685550600016,
+        2.184909530000027
+      ]
+    },
+    {
+      "id": "fb9aa459f7c1bf95e",
+      "name": "Lower Shabelle",
+      "adminCode": "SO23",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        42.980918884000175,
+        0.675563474000114,
+        45.39096832300015,
+        3.271484375000171
+      ]
+    },
+    {
+      "id": "585d9c447bd85f428",
+      "name": "Bay",
+      "adminCode": "SO24",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        42.40091474000013,
+        1.461714149000102,
+        44.69110107400007,
+        3.921508789000143
+      ]
+    },
+    {
+      "id": "824936a0536a9bb42",
+      "name": "Bakool",
+      "adminCode": "SO25",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        42.885314941000104,
+        3.251537018000022,
+        44.80095672600015,
+        4.960440000000119
+      ]
+    },
+    {
+      "id": "3f5b19de064cd7e6c",
+      "name": "Gedo",
+      "adminCode": "SO26",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        40.994875075000095,
+        1.232748162000178,
+        43.14093017600004,
+        4.307618680000019
+      ]
+    },
+    {
+      "id": "33683f30537475c6d",
+      "name": "Middle Juba",
+      "adminCode": "SO27",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        41.420903370000076,
+        0.311817259000122,
+        43.520795364000094,
+        1.951700354000081
+      ]
+    },
+    {
+      "id": "25154e11650972ed0",
+      "name": "Lower Juba",
+      "adminCode": "SO28",
+      "adminLevel": 1,
+      "levelName": "Region",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "ab11d29b657832427",
+      "bbox": [
+        40.995690614000125,
+        -1.664897400999905,
+        43.19128418000008,
+        1.321726918000024
+      ]
+    },
+    {
+      "id": "343d90a68bdd86088",
+      "name": "Borama",
+      "adminCode": "SO1101",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "93ec01531543b91f3",
+      "bbox": [
+        42.81750488300008,
+        9.657287598000153,
+        43.390939076,
+        10.530883788999972
+      ]
+    },
+    {
+      "id": "4c5fea7f49733e184",
+      "name": "Baki",
+      "adminCode": "SO1102",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "93ec01531543b91f3",
+      "bbox": [
+        43.3308715820001,
+        9.80102348400004,
+        44.23667671700019,
+        10.59786267800007
+      ]
+    },
+    {
+      "id": "4c1c49d552c3287f9",
+      "name": "Lughaye",
+      "adminCode": "SO1103",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "93ec01531543b91f3",
+      "bbox": [
+        43.13092041000016,
+        10.380910872000186,
+        44.07240345900016,
+        10.935185355000044
+      ]
+    },
+    {
+      "id": "6180511745f6389dd",
+      "name": "Zeylac",
+      "adminCode": "SO1104",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "93ec01531543b91f3",
+      "bbox": [
+        42.68310546900017,
+        10.318298340000183,
+        43.69778501500008,
+        11.511465902000111
+      ]
+    },
+    {
+      "id": "a56599d47d4a5bcb4",
+      "name": "Hargeysa",
+      "adminCode": "SO1201",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9e19abbd9f8870046",
+      "bbox": [
+        43.55543233800017,
+        8.771959543000037,
+        44.89768219000007,
+        10.320891021000023
+      ]
+    },
+    {
+      "id": "1257078d825be2675",
+      "name": "Berbera",
+      "adminCode": "SO1202",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9e19abbd9f8870046",
+      "bbox": [
+        44.15094266500006,
+        9.941139221000128,
+        46.031492600000036,
+        10.867492676000097
+      ]
+    },
+    {
+      "id": "b9040a767395898cf",
+      "name": "Gebiley",
+      "adminCode": "SO1203",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9e19abbd9f8870046",
+      "bbox": [
+        43.28967285200008,
+        9.375501554000095,
+        44.101074219000054,
+        10.300903320000089
+      ]
+    },
+    {
+      "id": "84921c7b40503b80a",
+      "name": "Burco",
+      "adminCode": "SO1301",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "57d1a9dad33ec2dd8",
+      "bbox": [
+        45.28097462800014,
+        8.255348538000021,
+        46.25098615500019,
+        10.099687004000089
+      ]
+    },
+    {
+      "id": "8f23948b0d5643009",
+      "name": "Buuhoodle",
+      "adminCode": "SO1302",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "57d1a9dad33ec2dd8",
+      "bbox": [
+        46.191108697000175,
+        8.000122070000145,
+        47.10107421900017,
+        8.821036084000127
+      ]
+    },
+    {
+      "id": "38daf60706a99aa4b",
+      "name": "Owdweyne",
+      "adminCode": "SO1303",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "57d1a9dad33ec2dd8",
+      "bbox": [
+        44.690954211000076,
+        8.57132171,
+        45.29097744799998,
+        9.941139221000128
+      ]
+    },
+    {
+      "id": "ea4fd7e88cb320076",
+      "name": "Sheikh",
+      "adminCode": "SO1304",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "57d1a9dad33ec2dd8",
+      "bbox": [
+        44.89768219000007,
+        9.780883789000143,
+        45.90739567200012,
+        10.170898437000062
+      ]
+    },
+    {
+      "id": "3a44f7f3384a5c988",
+      "name": "Laas Caanood",
+      "adminCode": "SO1401",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "71dff64d0823064e9",
+      "bbox": [
+        46.92071609300007,
+        8.000122070000145,
+        48.56104278600009,
+        8.843276577000097
+      ]
+    },
+    {
+      "id": "915c085091507d5b5",
+      "name": "Caynabo",
+      "adminCode": "SO1402",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "71dff64d0823064e9",
+      "bbox": [
+        46.0495305770001,
+        8.782618196000044,
+        46.92108154300013,
+        10.050289796000186
+      ]
+    },
+    {
+      "id": "cd2a81e4d5d206496",
+      "name": "Taleex",
+      "adminCode": "SO1403",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "71dff64d0823064e9",
+      "bbox": [
+        48.041035667000074,
+        8.781038283000157,
+        49.08111190799997,
+        9.57110321600004
+      ]
+    },
+    {
+      "id": "cdcbbedc73ac677a4",
+      "name": "Xudun",
+      "adminCode": "SO1404",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "71dff64d0823064e9",
+      "bbox": [
+        46.91107345000006,
+        8.781130205000125,
+        48.07952627000009,
+        9.50245482500003
+      ]
+    },
+    {
+      "id": "623d28b1637f70fc6",
+      "name": "Ceerigaabo",
+      "adminCode": "SO1501",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "b9cc8fb2bfc57d299",
+      "bbox": [
+        46.78785004900004,
+        9.442871094000054,
+        48.611083984000174,
+        11.181048393000026
+      ]
+    },
+    {
+      "id": "7600b7775f47064d5",
+      "name": "Ceel Afweyn",
+      "adminCode": "SO1502",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "b9cc8fb2bfc57d299",
+      "bbox": [
+        46.0110549260001,
+        9.421081543000128,
+        47.38110351600005,
+        10.810588180000025
+      ]
+    },
+    {
+      "id": "88c729764df72dd0a",
+      "name": "Laasqoray",
+      "adminCode": "SO1503",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "b9cc8fb2bfc57d299",
+      "bbox": [
+        47.91010960300014,
+        9.542111317000149,
+        49.06105066500004,
+        11.322547912000061
+      ]
+    },
+    {
+      "id": "9cf19bc593110d458",
+      "name": "Bossaso",
+      "adminCode": "SO1601",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        48.919128418000184,
+        10.350915517000033,
+        49.91107177700013,
+        11.451387862000047
+      ]
+    },
+    {
+      "id": "e9cec90ebb396d149",
+      "name": "Bandarbeyla",
+      "adminCode": "SO1602",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        49.89105361100013,
+        8.329104157000131,
+        50.87784945800013,
+        9.920928955000022
+      ]
+    },
+    {
+      "id": "89ac9340b5539279d",
+      "name": "Caluula",
+      "adminCode": "SO1603",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        50.30108261100014,
+        11.400810235000051,
+        51.286792755000135,
+        11.985202789000141
+      ]
+    },
+    {
+      "id": "6ff0998efcdc64866",
+      "name": "Iskushuban",
+      "adminCode": "SO1604",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        49.56106567400019,
+        9.810941696000157,
+        51.41303253200016,
+        11.501474617000099
+      ]
+    },
+    {
+      "id": "9da48478808cdb50f",
+      "name": "Qandala",
+      "adminCode": "SO1605",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        49.58073477100004,
+        10.510929068000166,
+        50.551086426000154,
+        11.636226698000144
+      ]
+    },
+    {
+      "id": "dd030df8d928e7f3f",
+      "name": "Qardho",
+      "adminCode": "SO1606",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "844e267fc29553fa7",
+      "bbox": [
+        49.04107662400003,
+        8.331076622000012,
+        50.091072083000086,
+        10.560913086000141
+      ]
+    },
+    {
+      "id": "211779ae07166c6b0",
+      "name": "Garoowe",
+      "adminCode": "SO1701",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "f53b31c7db3874869",
+      "bbox": [
+        48.05102920500008,
+        8.021107673000017,
+        49.300071716000105,
+        9.140529632000153
+      ]
+    },
+    {
+      "id": "e55c5bb5593ef4e53",
+      "name": "Burtinle",
+      "adminCode": "SO1702",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "f53b31c7db3874869",
+      "bbox": [
+        47.560173798000164,
+        7.411164283000119,
+        49.191047668000124,
+        8.211092949000147
+      ]
+    },
+    {
+      "id": "aa0f90c62a137b9f5",
+      "name": "Eyl",
+      "adminCode": "SO1703",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "f53b31c7db3874869",
+      "bbox": [
+        49.05152867400005,
+        7.39929199200003,
+        50.17608486900008,
+        8.685411453000029
+      ]
+    },
+    {
+      "id": "9b99cc73a09063145",
+      "name": "Gaalkacyo",
+      "adminCode": "SO1801",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9d90df13fd39da9dc",
+      "bbox": [
+        46.53827408500018,
+        6.281321558,
+        48.531455994000055,
+        7.56300949000007
+      ]
+    },
+    {
+      "id": "b3583f246f0ab3a11",
+      "name": "Galdogob",
+      "adminCode": "SO1802",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9d90df13fd39da9dc",
+      "bbox": [
+        46.89503002000009,
+        6.731229782000071,
+        47.53101730300011,
+        7.361427712000079
+      ]
+    },
+    {
+      "id": "4fb8f5c5071fa11df",
+      "name": "Hobyo",
+      "adminCode": "SO1803",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9d90df13fd39da9dc",
+      "bbox": [
+        47.35168457000009,
+        5.03017075200006,
+        49.16409993900004,
+        6.771301270000038
+      ]
+    },
+    {
+      "id": "7277ebdf3a4991ace",
+      "name": "Jariiban",
+      "adminCode": "SO1804",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9d90df13fd39da9dc",
+      "bbox": [
+        48.49103546100008,
+        6.601075665000167,
+        49.65069580100004,
+        7.711120605000019
+      ]
+    },
+    {
+      "id": "d2e9fe3fe7a7a83e6",
+      "name": "Xarardheere",
+      "adminCode": "SO1805",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "9d90df13fd39da9dc",
+      "bbox": [
+        47.501682420000066,
+        4.332891012000118,
+        48.296584501000154,
+        5.20147705100004
+      ]
+    },
+    {
+      "id": "859b67c1572959582",
+      "name": "Dhuusamarreeb",
+      "adminCode": "SO1901",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "5b075ed01a48835eb",
+      "bbox": [
+        45.65551757800017,
+        5.031387329000097,
+        47.60802459700011,
+        5.931101918000081
+      ]
+    },
+    {
+      "id": "14138fdae9d125978",
+      "name": "Cabudwaaq",
+      "adminCode": "SO1902",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "5b075ed01a48835eb",
+      "bbox": [
+        45.481148064000195,
+        5.178527832000043,
+        46.6711131350001,
+        6.497198251000043
+      ]
+    },
+    {
+      "id": "960ef37de2589466b",
+      "name": "Cadaado",
+      "adminCode": "SO1903",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "5b075ed01a48835eb",
+      "bbox": [
+        46.5150601200001,
+        5.752929687000119,
+        47.601027096000166,
+        6.520982803000095
+      ]
+    },
+    {
+      "id": "0858acf60ab800451",
+      "name": "Ceel Buur",
+      "adminCode": "SO1904",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "5b075ed01a48835eb",
+      "bbox": [
+        46.111083984000174,
+        4.234792709000033,
+        47.60802459700011,
+        5.19950151300003
+      ]
+    },
+    {
+      "id": "9da01847a9d3be73e",
+      "name": "Ceel Dheer",
+      "adminCode": "SO1905",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "5b075ed01a48835eb",
+      "bbox": [
+        46.39111324500004,
+        3.47233394400007,
+        47.83482460700003,
+        4.495342254999969
+      ]
+    },
+    {
+      "id": "f31db72d4abc03eee",
+      "name": "Belet Weyne",
+      "adminCode": "SO2001",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "01170fd650ffc4f1a",
+      "bbox": [
+        44.5921196430001,
+        4.077771664000068,
+        46.23098754900013,
+        5.432947894000165
+      ]
+    },
+    {
+      "id": "332214658d522b348",
+      "name": "Bulo Burto",
+      "adminCode": "SO2002",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "01170fd650ffc4f1a",
+      "bbox": [
+        44.749656677000075,
+        3.201477051000097,
+        46.396827698000095,
+        4.431514972000059
+      ]
+    },
+    {
+      "id": "a90146829c1279804",
+      "name": "Jalalaqsi",
+      "adminCode": "SO2003",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "01170fd650ffc4f1a",
+      "bbox": [
+        45.180965424000135,
+        3.203506551000146,
+        46.0911254880001,
+        3.571472168000128
+      ]
+    },
+    {
+      "id": "03e4f056a4dd41931",
+      "name": "Jowhar",
+      "adminCode": "SO2101",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "abfdf7eeb5311f29b",
+      "bbox": [
+        45.07096458000018,
+        2.72159862500007,
+        45.96097529500014,
+        3.251535626000077
+      ]
+    },
+    {
+      "id": "ff0284c8258453784",
+      "name": "Adan Yabaal",
+      "adminCode": "SO2102",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "abfdf7eeb5311f29b",
+      "bbox": [
+        46.061096191000104,
+        3.15324896400017,
+        47.03804830500002,
+        3.891447164000169
+      ]
+    },
+    {
+      "id": "28705de8695b7a85f",
+      "name": "Balcad",
+      "adminCode": "SO2103",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "abfdf7eeb5311f29b",
+      "bbox": [
+        45.331115723000096,
+        2.151650667000183,
+        46.12917655300009,
+        2.761595010000121
+      ]
+    },
+    {
+      "id": "69374754b6ce1094f",
+      "name": "Cadale",
+      "adminCode": "SO2104",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "abfdf7eeb5311f29b",
+      "bbox": [
+        45.94098027700005,
+        2.553894043000128,
+        46.7554229480001,
+        3.531494141
+      ]
+    },
+    {
+      "id": "434f9fa26208b627d",
+      "name": "Bondhere",
+      "adminCode": "SO2201",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.33575,
+        2.03749,
+        45.34596,
+        2.052610000000129
+      ]
+    },
+    {
+      "id": "8ca655ba36ebcbf5d",
+      "name": "Cabdulasis",
+      "adminCode": "SO2202",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.35198,
+        2.033508301000154,
+        45.36378,
+        2.04587
+      ]
+    },
+    {
+      "id": "89dd12c2fa573b416",
+      "name": "Daynile",
+      "adminCode": "SO2203",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.22546956800005,
+        2.044981064000069,
+        45.343688965000126,
+        2.104675293000128
+      ]
+    },
+    {
+      "id": "731aa6b4e8ec0aa61",
+      "name": "Dharkenley",
+      "adminCode": "SO2204",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.22952000000015,
+        1.96843519600003,
+        45.28349,
+        2.0449
+      ]
+    },
+    {
+      "id": "fd7e19dbcb4199663",
+      "name": "Hamar Jabjab",
+      "adminCode": "SO2205",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.32112000000018,
+        2.021450000000129,
+        45.34204,
+        2.036880000000167
+      ]
+    },
+    {
+      "id": "940983de8302cb457",
+      "name": "Hamar Weyne",
+      "adminCode": "SO2206",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.33418,
+        2.02819,
+        45.34381887700005,
+        2.039370000000133
+      ]
+    },
+    {
+      "id": "3a12fa995bc514717",
+      "name": "Hawl Wadaag",
+      "adminCode": "SO2207",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.31102,
+        2.032929999000089,
+        45.32938,
+        2.06408305400015
+      ]
+    },
+    {
+      "id": "571d812ed0bfa5828",
+      "name": "Heliwa",
+      "adminCode": "SO2208",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.353750000000105,
+        2.05936000000014,
+        45.43291,
+        2.099879999000166
+      ]
+    },
+    {
+      "id": "f8d007444e9795897",
+      "name": "Hodan",
+      "adminCode": "SO2209",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.28267000000011,
+        2.0316,
+        45.31872,
+        2.05955
+      ]
+    },
+    {
+      "id": "34d76fa5ba95c32c7",
+      "name": "Kahda",
+      "adminCode": "SO2210",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.20830255900012,
+        2.01908,
+        45.28277,
+        2.075073242000144
+      ]
+    },
+    {
+      "id": "79ef67345108bdf40",
+      "name": "Karaan",
+      "adminCode": "SO2211",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.35239,
+        2.04043,
+        45.433040000000176,
+        2.09383
+      ]
+    },
+    {
+      "id": "73bbd7104c9798f81",
+      "name": "Shangaani",
+      "adminCode": "SO2212",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.34218,
+        2.032479998999975,
+        45.35210000000018,
+        2.04108
+      ]
+    },
+    {
+      "id": "b6a38eaa1fad7456e",
+      "name": "Shibis",
+      "adminCode": "SO2213",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.34428000000014,
+        2.03973,
+        45.361530001000176,
+        2.054420000000164
+      ]
+    },
+    {
+      "id": "4f9608ef696b17947",
+      "name": "Waaberi",
+      "adminCode": "SO2214",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.27992000000012,
+        2.000610000000165,
+        45.33091000000019,
+        2.0371
+      ]
+    },
+    {
+      "id": "0623fa8ff1935e5be",
+      "name": "Wadajir (Medina)",
+      "adminCode": "SO2215",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.256420000000105,
+        1.986533096000187,
+        45.31073,
+        2.0445
+      ]
+    },
+    {
+      "id": "0e70b7ea2a82baaa9",
+      "name": "Wardhigley",
+      "adminCode": "SO2216",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.32013554800011,
+        2.036450000000116,
+        45.33960000000013,
+        2.072610000000111
+      ]
+    },
+    {
+      "id": "510d52e30e1afe9e9",
+      "name": "Yaaqshid",
+      "adminCode": "SO2217",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.33650000000017,
+        2.05173,
+        45.36353,
+        2.086840000000109
+      ]
+    },
+    {
+      "id": "7490d82d8647ab2cd",
+      "name": "Marka",
+      "adminCode": "SO2301",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        44.38095450000003,
+        1.501708984000061,
+        45.1140747070001,
+        1.921691895000038
+      ]
+    },
+    {
+      "id": "77d0ccdc774d905f1",
+      "name": "Afgooye",
+      "adminCode": "SO2302",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        44.66093242800008,
+        1.92167799200007,
+        45.39096832300015,
+        2.731689453000115
+      ]
+    },
+    {
+      "id": "f4e74975a53b0ab98",
+      "name": "Baraawe",
+      "adminCode": "SO2303",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        43.33972168000014,
+        0.675563474000114,
+        44.49530029300007,
+        1.53170273600017
+      ]
+    },
+    {
+      "id": "1ea4a4439482077ba",
+      "name": "Kurtunwaarey",
+      "adminCode": "SO2304",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        43.58538055400004,
+        1.44172810900011,
+        44.51093500600007,
+        1.890623144000074
+      ]
+    },
+    {
+      "id": "6714ec282893e5b98",
+      "name": "Qoryooley",
+      "adminCode": "SO2305",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        43.90166435500015,
+        1.671699252999986,
+        44.84088134800004,
+        2.241630655000108
+      ]
+    },
+    {
+      "id": "d1fcd24d3b7f81a02",
+      "name": "Sablaale",
+      "adminCode": "SO2306",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        42.980918884000175,
+        0.937316895000038,
+        44.15092156400016,
+        1.763465643000131
+      ]
+    },
+    {
+      "id": "8f3c756c552a37267",
+      "name": "Wanla Weyn",
+      "adminCode": "SO2307",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "fb9aa459f7c1bf95e",
+      "bbox": [
+        44.62109375000017,
+        2.235082751000107,
+        45.33361762300012,
+        3.271484375000171
+      ]
+    },
+    {
+      "id": "314ff0841b76bd15d",
+      "name": "Baydhaba",
+      "adminCode": "SO2401",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "585d9c447bd85f428",
+      "bbox": [
+        43.101074219000054,
+        2.521618365000052,
+        44.311096191000104,
+        3.921508789000143
+      ]
+    },
+    {
+      "id": "408c866f6e85dc19d",
+      "name": "Buur Hakaba",
+      "adminCode": "SO2402",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "585d9c447bd85f428",
+      "bbox": [
+        43.200930128000095,
+        1.626708984000118,
+        44.69110107400007,
+        3.341543198000181
+      ]
+    },
+    {
+      "id": "edba46128301d1b4c",
+      "name": "Diinsoor",
+      "adminCode": "SO2403",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "585d9c447bd85f428",
+      "bbox": [
+        42.40091474000013,
+        1.461714149000102,
+        43.440925598000035,
+        2.600615122000079
+      ]
+    },
+    {
+      "id": "dec69a3d1e671b1a4",
+      "name": "Qansax Dheere",
+      "adminCode": "SO2404",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "585d9c447bd85f428",
+      "bbox": [
+        42.51611328100006,
+        2.57171630900001,
+        43.12093471200012,
+        3.081481934000124
+      ]
+    },
+    {
+      "id": "b1bb28171f1a774ee",
+      "name": "Xudur",
+      "adminCode": "SO2501",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "824936a0536a9bb42",
+      "bbox": [
+        43.280937437000034,
+        3.611511230000076,
+        44.291076660000044,
+        4.481440446000022
+      ]
+    },
+    {
+      "id": "318b9753b1ba7c92f",
+      "name": "Ceel Barde",
+      "adminCode": "SO2502",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "824936a0536a9bb42",
+      "bbox": [
+        43.12792968700006,
+        4.430817410000088,
+        44.678451778000124,
+        4.960440000000119
+      ]
+    },
+    {
+      "id": "23ef5de132ccb069a",
+      "name": "Tayeeglow",
+      "adminCode": "SO2503",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "824936a0536a9bb42",
+      "bbox": [
+        44.28094482400019,
+        3.251537018000022,
+        44.80095672600015,
+        4.431450075000157
+      ]
+    },
+    {
+      "id": "fc0d7a43d48076325",
+      "name": "Waajid",
+      "adminCode": "SO2504",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "824936a0536a9bb42",
+      "bbox": [
+        43.09144210800008,
+        3.571472168000128,
+        43.79778526600012,
+        4.051511631000096
+      ]
+    },
+    {
+      "id": "4bd367032ec551d54",
+      "name": "Rab Dhuure",
+      "adminCode": "SO2505",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "824936a0536a9bb42",
+      "bbox": [
+        42.885314941000104,
+        3.947742701000038,
+        43.63090978900016,
+        4.634521484000061
+      ]
+    },
+    {
+      "id": "adda480d33941fc97",
+      "name": "Garbahaarey",
+      "adminCode": "SO2601",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        41.720886230000076,
+        2.746075554000186,
+        43.102092779000145,
+        3.681514739000136
+      ]
+    },
+    {
+      "id": "60a85f96b33960f1a",
+      "name": "Baardheere",
+      "adminCode": "SO2602",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        40.994875075000095,
+        1.232748162000178,
+        42.54262161300005,
+        2.941581487000064
+      ]
+    },
+    {
+      "id": "072fdbc2a4ec11c2b",
+      "name": "Belet Xaawo",
+      "adminCode": "SO2603",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        41.316342061000114,
+        3.001708984000118,
+        42.100884462000124,
+        3.911662949000117
+      ]
+    },
+    {
+      "id": "0bbd233d45942dfc1",
+      "name": "Ceel Waaq",
+      "adminCode": "SO2604",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        40.994875075000095,
+        2.30163931800007,
+        41.970897675000174,
+        3.139689731000146
+      ]
+    },
+    {
+      "id": "18427d75694b00799",
+      "name": "Doolow",
+      "adminCode": "SO2605",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        41.86076458100007,
+        3.791503906000116,
+        42.40166453400019,
+        4.193096822000086
+      ]
+    },
+    {
+      "id": "907218b527482b453",
+      "name": "Luuq",
+      "adminCode": "SO2606",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "3f5b19de064cd7e6c",
+      "bbox": [
+        42.04090148100016,
+        3.256967105000172,
+        43.14093017600004,
+        4.307618680000019
+      ]
+    },
+    {
+      "id": "f0085eb0761e8361d",
+      "name": "Bu'aale",
+      "adminCode": "SO2701",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "33683f30537475c6d",
+      "bbox": [
+        42.138955407000026,
+        0.751892090000069,
+        43.261006692000024,
+        1.511718750000114
+      ]
+    },
+    {
+      "id": "e1e5c25f330c07350",
+      "name": "Jilib",
+      "adminCode": "SO2702",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "33683f30537475c6d",
+      "bbox": [
+        42.620910645000095,
+        0.311817259000122,
+        43.520795364000094,
+        1.046461984000018
+      ]
+    },
+    {
+      "id": "862f3c481ec2f77f2",
+      "name": "Saakow",
+      "adminCode": "SO2703",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "33683f30537475c6d",
+      "bbox": [
+        41.420903370000076,
+        1.261733990000039,
+        42.953228819000174,
+        1.951700354000081
+      ]
+    },
+    {
+      "id": "e0bf51f4cb8c15089",
+      "name": "Kismaayo",
+      "adminCode": "SO2801",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "25154e11650972ed0",
+      "bbox": [
+        41.2910766600001,
+        -1.022277831999929,
+        42.72142199100006,
+        -0.018145946999937
+      ]
+    },
+    {
+      "id": "bda738058b666b1b7",
+      "name": "Afmadow",
+      "adminCode": "SO2802",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "25154e11650972ed0",
+      "bbox": [
+        40.995690614000125,
+        -0.197265286999937,
+        42.72680282600004,
+        1.321726918000024
+      ]
+    },
+    {
+      "id": "2c70dd07a67a9eaa8",
+      "name": "Badhaadhe",
+      "adminCode": "SO2803",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "25154e11650972ed0",
+      "bbox": [
+        40.995690614000125,
+        -1.664897400999905,
+        41.99356842000003,
+        -0.148117730999957
+      ]
+    },
+    {
+      "id": "31035dc57ce3ab21f",
+      "name": "Jamaame",
+      "adminCode": "SO2804",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "25154e11650972ed0",
+      "bbox": [
+        42.53090724200007,
+        -0.168473049999932,
+        43.19128418000008,
+        0.328681052000036
+      ]
+    },
+    {
+      "id": "70f311909158f8f2d",
+      "name": "Unspecified",
+      "adminCode": "Unspecified",
+      "adminLevel": 2,
+      "levelName": "District",
+      "countryCode": "SO",
+      "countryIso3": "SOM",
+      "parentId": "7ff73fb3de28da0cd",
+      "bbox": [
+        45.3265173530001,
+        2.067386805000183,
+        45.60685550600016,
+        2.184909530000027
+      ]
+    }
+  ]
+}

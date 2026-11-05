@@ -1,0 +1,93 @@
+{
+  "schema": 1,
+  "countryCode": "ET",
+  "countryIso3": "ETH",
+  "idNamespace": "hdx-cod-ab-v1",
+  "geometryIncludedInRecords": false,
+  "source": {
+    "dataset": "https://data.humdata.org/dataset/cod-ab-eth",
+    "datasetId": "cb58fa1f-687d-4cac-81a7-655ab1efb2d0",
+    "resourceId": "0518da1b-42d1-4624-ad64-768cb69f9d40",
+    "resourceUrl": "https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/0518da1b-42d1-4624-ad64-768cb69f9d40/download/eth_admin_boundaries.geojson.zip",
+    "sourceArchiveSha256": "62db6c6ef2bb205b430e5ae3406fb8f94b30ac77106db1aec5a1ad5e81244e7a",
+    "sourceArchiveBytes": 23754149,
+    "datasetDate": "[2025-01-01T00:00:00 TO 2025-12-01T23:59:59]",
+    "resourceModified": "2026-04-17T09:59:45.523509",
+    "publisher": "OCHA Field Information Services Section (FISS)",
+    "attribution": "CSA (Central Statistics Agency) + Regional Bureau of Finance and Economic Development (BoFED); OCHA/HDX; CC BY 3.0 IGO",
+    "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "licenseUrl": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+    "disclaimer": "The boundaries and names shown and the designations used on this data do not imply official endorsement or acceptance by the United Nations.",
+    "caveats": "In the administrative boundary dataset, two administrative level 3 units cannot be represented on maps because of their contested boundaries, but they are being used in all types of analysis. These are Dawe Serer (ET042199) in Oromia region and Quarsadula (ET050905) in Somali region. These two are included on HDX in other datasets, for example on the population statistics and humanitarian profile, and in the gazetteer provided with this dataset (1150 woredas).\nAdministrative boundaries and capital locations are derived from the latest official datasets available. They are provided for reference only and may not reflect all current administrative realities on the ground.\n\nUse the disclaimer provided here on your maps/products: \nThe boundaries and names shown and the designations used on this data do not imply official endorsement or acceptance by the United\nNations.Reference to ‘contested areas’ are understood within the context of the Pretoria Agreement [Article 10, 2022].\n\nNote on admin capitals: Addis Ababa serves as the national capital and admin1 capital for Addis Ababa and Oromia regions.",
+    "excludedFiles": [
+      "eth_admin3_gzt.csv",
+      "eth_admincapitals.geojson",
+      "eth_adminlines.geojson",
+      "eth_adminpoints.geojson"
+    ],
+    "datasetDescription": "Ethiopia administrative level 0-3 boundaries (COD-AB) dataset version 04.  \n  \nThis dataset is structured into 3 levels:  \n- Admin 1: 15 Region  \n- Admin 2: 107 Zone  \n- Admin 3: 1148 Woreda  \n  \n  \nNote: Addis Ababa serves as the national capital and admin1 capital for Addis Ababa and Oromia regions.  \n  \n  \nDates associated with this dataset:  \n- 01 December 2025: dataset reviewed for accuracy and completeness  \n- 01 January 2025: valid for use by the humanitarian community  \n- 01 November 2025: last edit to the dataset before publishing  \n- 01 August 2023: boundaries created by the source  \n  \nQuality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  \n  \nPart of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  },
+  "build": {
+    "crs": "OGC:CRS84",
+    "minimumZoom": 0,
+    "maximumZoom": 8,
+    "tinyPolygonReduction": false,
+    "featureDropping": false,
+    "tippecanoeVersion": "tippecanoe v2.53.0",
+    "geometryGeneralization": "Tippecanoe default zoom-dependent simplification and quantization"
+  },
+  "records": {
+    "file": "records.json",
+    "sha256": "4ae435495c5f2e40c71054e46856296ecdb35c6625ed44468daa995b1234736b",
+    "count": 1271,
+    "bytes": 483708,
+    "countsByLevel": {
+      "0": 1,
+      "1": 15,
+      "2": 107,
+      "3": 1148
+    }
+  },
+  "tiles": [
+    {
+      "file": "admin-0.mbtiles",
+      "level": 0,
+      "sha256": "12c6c035ebcde0ab055ef8eaf226ecee10bddba51b70f8835f33bb527b2388ee",
+      "bytes": 69632,
+      "featureCount": 1,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-1.mbtiles",
+      "level": 1,
+      "sha256": "f74999aa6f7c5afecde83ecbedc174b88ee3f7c3d8a33d8a93c4c8090d0e61bd",
+      "bytes": 212992,
+      "featureCount": 15,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-2.mbtiles",
+      "level": 2,
+      "sha256": "c02ef116dd02b5a85256f3f74841890018538fc35aa0dd1f8b0ace6b9be38058",
+      "bytes": 630784,
+      "featureCount": 107,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    },
+    {
+      "file": "admin-3.mbtiles",
+      "level": 3,
+      "sha256": "d61b9096e891652e1c9fb362ba0422f8f1beb79c612095682e966119b5408668",
+      "bytes": 2301952,
+      "featureCount": 1148,
+      "minZoom": 0,
+      "maxZoom": 8,
+      "layer": "admin-areas"
+    }
+  ]
+}
